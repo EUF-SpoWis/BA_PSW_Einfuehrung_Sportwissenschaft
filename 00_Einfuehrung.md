@@ -24,7 +24,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 
 > (c) Alle Rechte vorbehalten. 
 
-## Fragen zum Einstieg...
+
 
 {{0-1}}
 ****************************************************************************************************************************************************************************************************
@@ -212,6 +212,11 @@ Auf den Seiten des Sportinstituts findet ihr auch Angaben zu den [sportpraktisch
 > * Wie viele Prüfungsteile umfasst die praktische Prüfung im Bewegungsfeld Laufen, Springen und Werfen?
 > * Welche Prüfungsleistung im Bewegunsgfeld Bewegen im Wasser ist notwendig für die Note 2,3? 
 > * Wer verantwortet die Studienberatung im Bachelor Teilstudiengang Sportwissenschaft?
+
+
+## Sportwissenschaftliches Studium an der EUF
+
+![Professionelles Wissen von Lehrkräften](img/Modell_ProfWiss.jpg "Untergliederung des professionellen Wissens (s. etwa auch Heemsoth, 2016)")
 
 ## Übungsfragen
 

@@ -114,13 +114,13 @@ Video 1
 ### Zugang zu Materialien
 
 > - **Öffentlich zugängliches Material**: Lege dir einen GitHub-Account an (Link s. [Seite 1](#einführung-in-die-lehveranstaltung)). Es empfiehlt sich, den Kurs am Ende des Semesters in den eigenen Account zu kopieren. 
-> - **Geschütztes Material**: Findest du im Moodle-Kurs "Einführende Perspektiven in die Sportwissenschaft"
+> - **Geschütztes Material**: Findest du im Moodle-Kurs "HeSe[JJ] Einführende Perspektiven in die Sportwissenschaft"
 
 ### Prüfung
 
-> - Dieses Teilmodul gehört zum Modul PSW "Einführende Perspektiven in die Sportwissenschaft" 
-> - Das PSW-Modul umfasst auch die Vorlesung "Grundlagen der Sportpädagogik und Sportdidaktik", die im FrSe angeboten wird. 
-> - Nach dem FrSe wird das PSW-Modul mit einer schriftlichen Klausur über beide Vorlesungen abgeschlossen. 
+> - Diese Vorlesung gehört zum Modul PSW "Einführende Perspektiven in die Sportwissenschaft" 
+> - Das Modul PSW umfasst auch die Vorlesung "Grundlagen der Sportpädagogik und Sportdidaktik", die im FrSe angeboten wird. 
+> - Nach dem FrSe wird das Modul PSW mit einer schriftlichen Klausur über beide Vorlesungen abgeschlossen. 
 
 ## Sportstudium an der EUF 
 
@@ -152,25 +152,28 @@ Video 1
 
 ### Studiendokumente
 
-{{0-2}}
+{{0-3}}
 ****************************
 **Rechtliche Verankerung** 
 
 Die [Fachprüfungsordnung](https://www.uni-flensburg.de/die-universitaet/organisation-und-struktur/satzungen-und-ordnungen/dokumente-zum-studium/ba-bildungwissenschaften) informiert über den rechtlich verankerten Rahmen des Studiums. 
 ****************************
 
-{{1-2}}
+{{1-3}}
 ****************************
 **Informierende Dokumente** 
 
 Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-und-struktur/satzungen-und-ordnungen/dokumente-zum-studium/ba-bildungwissenschaften) informiert über die Inhalte, Prüfungsformate, Semestrigkeit und den geplanten Workload der einzelnen Module. 
 ****************************
 
-{{2-2}}
+{{2-3}}
 ****************************
 **Sportspezifische Dokumente**
 
-Auf den Seiten des Sportinstituts findet ihr auch Angaben zu den [sportpraktischen Prüfungen](https://www.uni-flensburg.de/sport/studierende/pruefungen-in-den-bewegungsfeldern). 
+ Auf den Seiten des Sportinstituts findet ihr auch Angaben 
+- ... zum Studienverlauf im sportwissenschaftlichen Teilstudiengang
+- ... zu den [sportpraktischen Prüfungen](https://www.uni-flensburg.de/sport/studierende/pruefungen-in-den-bewegungsfeldern). 
+
 ****************************
 
 ### Studieninformation
@@ -187,6 +190,7 @@ Auf den Seiten des Sportinstituts findet ihr auch Angaben zu den [sportpraktisch
 > * In welchen Lehrveranstlatungen besteht eine Anwesenheitspflicht?
 > * Welches Prüfungsformat ist im Modul "Lehren und Lernen in den Sportspielen" vorgesehen?
 > * In wechem Semester liegt das Modul "Sportpädagogik des Kindes- und Jugendalters"?
+> * In welcher Lehveranstaltung muss eine Prüfungsvorleistung erbracht werden?
 >
 >**Aufgabe 2**
 >
@@ -195,16 +199,54 @@ Auf den Seiten des Sportinstituts findet ihr auch Angaben zu den [sportpraktisch
 > * Wie viele Prüfungsteile umfasst die praktische Prüfung im Bewegungsfeld Laufen, Springen und Werfen?
 > * Welche Prüfungsleistung im Bewegunsgfeld Bewegen im Wasser ist notwendig für die Note 2,3? 
 > * Wer verantwortet die Studienberatung im Bachelor Teilstudiengang Sportwissenschaft?
-
+> * Wer leitet den Arbeitsbereich Bewegungs- und Trainingswissenschaft?
 
 ## Übungsfragen
 
-Welche der folgenden Aussagen zu Begiffen der Sportwissenschaft ist korrekt?
+Aus wie vielen Veranstaltungen besteht das Modul "Sport und Gesundheit"?
 
-- [[ ]] Die Geburtststunde der Sportwissenschaft in Deutschland lässt sich mit der Gründung der Deutschen Hochschule für Leibesübungen 1946 verbinden.  
-- [[x]] München 1972, die „Trimm Dich"-Bewegung 
-- [[x]] Aussage 3
-- [[ ]] Aussage 4
-- [[x]] Aussage 5
+- [[ ]] 1
+- [[x]] 2
+- [[ ]] 3
+- [[ ]] 4
+
+Wer bietet die Studienberatung im Bachelor im Fach Sport an?
+
+- [[ ]] Meike Starke
+- [[ ]] Tobias Regenbrecht
+- [[ ]] Tim Heemsoth
+- [[x]] Nele Schlapkohl
+
+Mit welcher Prüfungsleistung endet das Modul "Lehren und Lernen in den Sportspielen"?
+
+- [[x]] Klausur
+- [[ ]] Mündlche Prüfung
+- [[ ]] Hausarbeit
+- [[x]] Praktische Prüfung
+
+Wie viele Leistungspunkte werden im Modul Bewegungsgestaltung, Freizeit- und Trendsportarten" erworben?
+
+- [[ ]] 5
+- [[ ]] 7
+- [[x]] 10
+- [[ ]] 12
+
+
+Welche Studierende besuchen das Modul "Ausgewählte Themen der Sportwissenschaft I"?
+
+- [[x]] Studierende mit dem Ziel berufliche Schulen.
+- [[ ]] Studierende mit dem Ziel Grundschullehramt.
+- [[x]] Studierende mit dem Ziel Gemenschaftsschule oder Gymnasium.
+- [[x]] Studierende mit dem Ziel fachwissenschaftlicher Masterstudiengang.
+
+
+Mit welcher Note wird in der Veranstaltung "Laufen, Springen Werfen" eine Weitsprungleistung von 4,20 m bei den Studentinnen bewertet?
+
+- [[ ]] 2,0
+- [[ ]] 2,3
+- [[x]] 2,7
+- [[ ]] 3,0
 
 ## Hausaufgabe
+
+> Lies bis zur nächsten Veranstaltung den folgenden Text... 

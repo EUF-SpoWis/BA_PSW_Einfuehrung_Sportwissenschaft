@@ -59,7 +59,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 
 {{3-4}}
 ***************************************************************************************************************************************************************************************
-**Was hat dich zur Wahl der EUF als Studienstandort bewgogen?**
+**Was hat dich zur Wahl der EUF als Studienstandort bewogen?**
 
     [[___]]
 ***************************************************************************************************************************************************************************************
@@ -90,7 +90,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 ## Semesterüberblick
 
 <!-- data-type="none" -->
-| Veranstaltungstitel                                                                                                                    | Was lernen Sie hier?                                                                   |
+| Veranstaltungstitel                                                                                                                    | Was lernst du hier?                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | [00 Einführung](00_Einfuehrung.md)                                                                                                     | Die große Vision                                                                       |
 | [01 Grundlagen](01_Grundlagen.md)                                                                                                      | Sport, Wissenschaft, Sportwissenschaft                                                 |
@@ -180,11 +180,9 @@ Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-u
 
 > Auf den Seiten des Instituts für Sportwissenschaft findet ihr Informationen zur Studienberatung und Fragen der [Anerkennung von an anderen Institituionen erbrachten Leistungen](https://www.uni-flensburg.de/sport/studierende/studienberatung-und-anerkennung).
 
-### Rechercheauftrag
+### Rechercheaufträge
 
-> **Aufgabe 1**
-> 
-> Recherchiere in der Fachprüfungsordnung die folgenden Informationen
+> **Recherchiere in der Fachprüfungsordnung die folgenden Informationen**
 > 
 > * Wie viele Leistungspunkte werden für das Modul 3 vergeben?
 > * In welchen Lehrveranstlatungen besteht eine Anwesenheitspflicht?
@@ -192,9 +190,7 @@ Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-u
 > * In wechem Semester liegt das Modul "Sportpädagogik des Kindes- und Jugendalters"?
 > * In welcher Lehveranstaltung muss eine Prüfungsvorleistung erbracht werden?
 >
->**Aufgabe 2**
->
-> Recherchiere auf den Seiten des Instituts für Sportwissenschaaft
+> **Recherchiere auf den Seiten des Instituts für Sportwissenschaaft**
 >
 > * Wie viele Prüfungsteile umfasst die praktische Prüfung im Bewegungsfeld Laufen, Springen und Werfen?
 > * Welche Prüfungsleistung im Bewegunsgfeld Bewegen im Wasser ist notwendig für die Note 2,3? 

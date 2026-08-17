@@ -224,7 +224,7 @@ Mit welcher Prüfungsleistung endet das Modul "Lehren und Lernen in den Sportspi
 - [[ ]] Hausarbeit
 - [[x]] Praktische Prüfung
 
-Wie viele Leistungspunkte werden im Modul Bewegungsgestaltung, Freizeit- und Trendsportarten" erworben?
+Wie viele Leistungspunkte werden im Modul "Bewegungsgestaltung, Freizeit- und Trendsportarten" erworben?
 
 - [[ ]] 5
 - [[ ]] 7
@@ -236,7 +236,7 @@ Welche Studierende besuchen das Modul "Ausgewählte Themen der Sportwissenschaft
 
 - [[x]] Studierende mit dem Ziel berufliche Schulen.
 - [[ ]] Studierende mit dem Ziel Grundschullehramt.
-- [[x]] Studierende mit dem Ziel Gemenschaftsschule oder Gymnasium.
+- [[x]] Studierende mit dem Ziel Gemeinschaftsschule oder Gymnasium.
 - [[x]] Studierende mit dem Ziel fachwissenschaftlicher Masterstudiengang.
 
 

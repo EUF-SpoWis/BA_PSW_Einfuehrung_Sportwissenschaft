@@ -107,7 +107,7 @@ Video 1
 
 ## Zu erwerbende Kompetenzen
 
-![Facetten professioneller Handlungkompetenz](img/Modell_ProfWiss.jpg)
+![Facetten professioneller Handlungkompetenz](img/Modell_ProfWiss.png)
 
 ## Organisatorisches 
 

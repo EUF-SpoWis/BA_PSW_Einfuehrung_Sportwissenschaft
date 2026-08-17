@@ -24,23 +24,24 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 
 > (c) Alle Rechte vorbehalten. 
 
-
+## Fragen zum Start
 
 {{0-1}}
-****************************************************************************************************************************************************************************************************
+***************************************************************************************************************************************************************************************
 **Woher kommst du?**
 
-[[SH nördlich]]         aus Schleswig-Holstein nördlich des Kanals
-[[SH südlich]]          aus Schleswig-Holstein südlich des Kanals
+[[SH nördlich]]         aus Schleswig-Holstein nördlich des Nord-Ostsee-Kanals
+[[SH südlich]]          aus Schleswig-Holstein südlich des Nord-Ostsee-Kanals
 [[Hamburg]]             nachbarländer: HH, BR, NI, MP
 [[anderes Bundesland]]  anderes Bundesland
 [[Ausland]]             Ausland
-****************************************************************************************************************************************************************************************************
+***************************************************************************************************************************************************************************************
+
 
 {{1-2}}
-****************************************************************************************************************************************************************************************************
-
+***************************************************************************************************************************************************************************************
 **In welchem Bewegungsfeld hast du am meisten Erfahrung gesammelt?**
+
 [[Spielen]]                  Spielen
 [[Tanz]]                     Gestalten und Darstellen, Turnen
 [[Laufen, Springen, Werfen]] Laufen, Springen, Werfen
@@ -50,20 +51,22 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 
 {{2-3}}
 ***************************************************************************************************************************************************************************************
-**Was motiviert dich zu einem Sportstudium?**
+**Was motiviert dich zum Sportstudium?**
 
     [[___]]
-****************************************************************************************************************************************************************************************************
+***************************************************************************************************************************************************************************************
+
 
 {{3-4}}
 ***************************************************************************************************************************************************************************************
 **Was hat dich zur Wahl der EUF als Studienstandort bewgogen?**
 
     [[___]]
-****************************************************************************************************************************************************************************************************
+***************************************************************************************************************************************************************************************
+
 
 {{4-5}}
-****************************************************************************************************************************************************************************************************
+***************************************************************************************************************************************************************************************
 **Welche Aussage hätte am ehesten von der Sportlehrkraft kommen können, die dir am meisten im Gedächtnis geblieben ist?**
 
 [[Los]]                 „Kinder, hier ist der Ball, bildet Mannschaften, 11 gegen 11 und los geht‘s“
@@ -84,7 +87,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 [[Gefühle]]             „Wie habt ihr Euch dabei gefühlt?“
 ****************************************************************************************************************************************************************************************************
 
-## Themen
+## Semesterüberblick
 
 <!-- data-type="none" -->
 | Veranstaltungstitel                                                                                                                    | Was lernen Sie hier?                                                                   |
@@ -102,7 +105,9 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
  <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">	<iframe src="https://uni-flensburg.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3a6c214e-815c-44f6-857f-b3760109780e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="In Panopto integrierter Videoplayer" aria-description="Video 1"></iframe></div>
 Video 1
 
-## Erworbene Kompetenzen
+## Zu erwerbende Kompetenzen
+
+![Facetten professioneller Handlungkompetenz](img/Modell_ProfWiss.jpg)
 
 ## Organisatorisches 
 

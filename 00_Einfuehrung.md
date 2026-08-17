@@ -156,21 +156,21 @@ Video 1
 ****************************
 **Rechtliche Verankerung** 
 
-Die [Fachprüfungsordnung](https://www.uni-flensburg.de/die-universitaet/organisation-und-struktur/satzungen-und-ordnungen/dokumente-zum-studium/ba-bildungwissenschaften) informiert über den rechtlich verankerten Rahmen des Studiums. 
+Die [Fachprüfungsordnung](https://www.uni-flensburg.de/die-universitaet/organisation-und-struktur/satzungen-und-ordnungen/dokumente-zum-studium/ba-bildungwissenschaften) informiert über den rechtlich verankerten Rahmen des Studiums incl. Modulverlauf, Leistungspunkte, Prüfungsformen, Studien- und Prüfungsvorleistungen. 
 ****************************
 
 {{1-3}}
 ****************************
 **Informierende Dokumente** 
 
-Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-und-struktur/satzungen-und-ordnungen/dokumente-zum-studium/ba-bildungwissenschaften) informiert über die Inhalte, Prüfungsformate, Semestrigkeit und den geplanten Workload der einzelnen Module. 
+Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-und-struktur/satzungen-und-ordnungen/dokumente-zum-studium/ba-bildungwissenschaften) informiert näher über die Inhalte, Prüfungsformate, Semestrigkeit und den geplanten Workload der einzelnen Module. 
 ****************************
 
 {{2-3}}
 ****************************
 **Sportspezifische Dokumente**
 
- Auf den Seiten des Sportinstituts findet ihr auch Angaben 
+ Auf den Seiten des Instituts für Sportwissenschaft findet ihr Angaben 
 - ... zum Studienverlauf im sportwissenschaftlichen Teilstudiengang
 - ... zu den [sportpraktischen Prüfungen](https://www.uni-flensburg.de/sport/studierende/pruefungen-in-den-bewegungsfeldern). 
 

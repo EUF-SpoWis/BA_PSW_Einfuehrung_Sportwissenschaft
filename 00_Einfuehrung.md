@@ -185,12 +185,12 @@ Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-u
 > **Recherchiere in der Fachprüfungsordnung die folgenden Informationen**
 > 
 > * Wie viele Leistungspunkte werden für das Modul 3 vergeben?
-> * In welchen Lehrveranstlatungen besteht eine Anwesenheitspflicht?
+> * In welchen Lehrveranstaltungen besteht eine Anwesenheitspflicht?
 > * Welches Prüfungsformat ist im Modul "Lehren und Lernen in den Sportspielen" vorgesehen?
 > * In wechem Semester liegt das Modul "Sportpädagogik des Kindes- und Jugendalters"?
 > * In welcher Lehveranstaltung muss eine Prüfungsvorleistung erbracht werden?
 >
-> **Recherchiere auf den Seiten des Instituts für Sportwissenschaaft**
+> **Recherchiere auf den Seiten des Instituts für Sportwissenschaft**
 >
 > * Wie viele Prüfungsteile umfasst die praktische Prüfung im Bewegungsfeld Laufen, Springen und Werfen?
 > * Welche Prüfungsleistung im Bewegunsgfeld Bewegen im Wasser ist notwendig für die Note 2,3? 

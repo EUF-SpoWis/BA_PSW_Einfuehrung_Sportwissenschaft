@@ -30,11 +30,11 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissen
 ***************************************************************************************************************************************************************************************
 **Woher kommst du?**
 
-[[SH nördlich]]         aus Schleswig-Holstein nördlich des Nord-Ostsee-Kanals
-[[SH südlich]]          aus Schleswig-Holstein südlich des Nord-Ostsee-Kanals
-[[Hamburg]]             nachbarländer: HH, BR, NI, MP
-[[anderes Bundesland]]  anderes Bundesland
-[[Ausland]]             Ausland
+[[SH nördlich]]              aus Schleswig-Holstein nördlich des Nord-Ostsee-Kanals
+[[SH südlich]]               aus Schleswig-Holstein südlich des Nord-Ostsee-Kanals
+[[nachbarländer]]            Nachbarländer: HH, BR, NI, MP
+[[entfernteres Bundesland]]  entfernteres Bundesland
+[[Ausland]]                  Ausland
 ***************************************************************************************************************************************************************************************
 
 

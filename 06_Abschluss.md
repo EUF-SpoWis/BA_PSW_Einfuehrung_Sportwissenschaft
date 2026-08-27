@@ -11,7 +11,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 
 # Abschluss 
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/07_Abschluss.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/06_Abschluss.md#1)
 
 | Parameter                | Kursinformationen                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 | **Semester:**            | @config.semester                                                                                |
 | **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
 | **Inhalte:**             | `Rückblick auf die Lehveranstaltung und Vorbereitung auf die Klausur`                  |
-| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/blob/main/07_Abschluss.md      |
+| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/blob/main/06_Abschluss.md      |
 | **Autoren:**             | @author                                                                                         |
 
 > (c) Alle Rechte vorbehalten. 

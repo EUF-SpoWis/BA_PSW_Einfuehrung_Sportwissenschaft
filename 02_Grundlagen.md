@@ -11,7 +11,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 
 # Grundlagen
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/01_Grundlagen.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/02_Grundlagen.md#1)
 
 | Parameter                | Kursinformationen                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 | **Semester:**            | @config.semester                                                                                |
 | **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
 | **Inhalte:**             | `Grundlegende Orientierungen und Begriffe in der Sportwissenschaft.          `                  |
-| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/blob/main/01_Grundlagen.md       |
+| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/blob/main/02_Grundlagen.md       |
 | **Autoren:**             | @author                                                                                         |
 
 > (c) Alle Rechte vorbehalten. 

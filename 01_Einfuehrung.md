@@ -11,7 +11,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 
 # Einführung in die Lehveranstaltung
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/00_Einfuehrung.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/01_Einfuehrung.md#1)
 
 | Parameter                | Kursinformationen                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
@@ -87,40 +87,76 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 [[Gefühle]]             „Wie habt ihr Euch dabei gefühlt?“
 ****************************************************************************************************************************************************************************************************
 
-## Semesterüberblick
+## Studienziele 
 
-<!-- data-type="none" -->
-| Veranstaltungstitel                                                                                                                    | Was lernst du hier?                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [00 Einführung](00_Einfuehrung.md)                                                                                                     | Die große Vision                                                                       |
-| [01 Grundlagen](01_Grundlagen.md)                                                                                                      | Sport, Wissenschaft, Sportwissenschaft                                                 |
-| [02 Exemplarisch: Naturwissenschaftliche Teildisziplinen](02_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)                   | Sportwissenschaftliche Phänomene aus naturwisenschaftlicher Perspektive                |
-| [03 Exemplarisch: Sozialwissenschaftliche Teildisziplinen](03_Exemplarisch_Sozialwissenschaftliche_Teildisziplinen.md)                 | Sportwissenschaftliche Phänomene aus gesellschaftswissenschaftlicher Perspektive       |
-| [04 How do we catch our cats? - Qualitatives Forschen](04_Qualitatives_Forschen.md)                                                    | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
-| [05 How do we catch our cats? - Quantitatives Forschen](05_Quantitatives_Forschen.md)                                                  | Grundlagen sportwissenschaftlichen Arbeits, quantitatives Forschen                      |
-| [07 Abschluss und Klausurvorbereitung](07_Abschluss.md)                                                                                | Rückblick auf das Semester, Hinweise zur Klausur                                       |
-
-## Worum geht es? - Einstiegsbeispiel
+### Beispiel I
 
  <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">	<iframe src="https://uni-flensburg.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3a6c214e-815c-44f6-857f-b3760109780e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="In Panopto integrierter Videoplayer" aria-description="Video 1"></iframe></div>
 Video 1
 
-## Zu erwerbende Kompetenzen
+### Professionelle Kompetenzen entwicklen
+
+--{{0}}--
+Die Professionsforschung unterscheidet zwischen verschiedenen Kompetenzfacetten, die pädagogisch Professionelle benötigen. um erfolgreiche Lern- und Bildungsangebote zu machen. Dazu zählen insbesondere das professionelle Wissen, motivationale Orientierungen, selbstregulative Fähigkeiten sowie Überzeugungen und Werthaltungen. Das Studium an der EUF hat das Ziel, Studierende in all diesen Facetten zu stärken.
 
 ![Facetten professioneller Handlungkompetenz](img/Modell_ProfWiss.png "Facetten professioneller Handlungskompetenz für Sportlehrkräfte, adaptiert nach Baumert & Kunter, 2006")
 
-## Organisatorisches 
+### Beispiel II
+
+Die Lehrkraft hat das Ziel, dass sich die Kinder ihrer 3. Klasse im Springen verbessern. In trainingswissenschaftlicher Literatur identifiziert die Lehrkraft verschiedene Sprungübungen. In der Sportstunde sollen sich  die Schüler*innen in einer Reihe aufstellen und Sprünge quer durch die Halle durchführen. Dafür formuliert die Lehrkraft mündlich verschiedene Aufgaben:  
+- Springe Schlusssprünge mit paralleleln Beinen. 
+- Springe nur mit links.
+- Springe nur mit rechts.
+- Springe im Sprunglauf. 
+
+{{1}}
+> **PA (5 min)** <br>
+> Welchen Unterrichtsverlauf prognostiziert ihr? 
+
+## Das PSW-Modul 
+
+### Modulzusammensetzung
+> - Diese Vorlesung gehört zum Modul PSW "Einführende Perspektiven in die Sportwissenschaft" 
+> - Das Modul PSW umfasst auch die Vorlesung "Grundlagen der Sportpädagogik und Sportdidaktik", die im FrSe angeboten wird. 
+
+### Qualifikationsziele
+
+**In diesem Semester**
+- Ich kenne Aufbau, Ziele und grundlegende Arbeitsweisen des sportwissenschaftlichen Studiums 
+- Ich kann übergreifende Disziplinen und grundlegende wissenschaftliche Methoden der Sportwissenschaft benennen, mit exemplarischen Inhalten verknüpfen und in vereinfachten Problemstellungen anwenden. 
+
+**... im nächstem Semeter**
+- Ich habe grundlegende Kenntnisse der Sportpädagogik und Sportdidaktik und bin in der Lage, zentrale Bildungs- und Erziehungsziele von Bewegung, Spiel und Sport vor dem Hintergrund historischer, anthropologischer und aktueller gesellschaftlicher Fragestellungen einzuordnen.
+- Ich kann auf der Basis sportpädagogischer bzw. sportdidaktischer Grundlagen, fremdes professionelles Handeln auf grundlegendem Niveau begründet analysieren und  bewerten sowie eigenes professionelles Handeln in ersten Ansätzen planen."
+
+### Zeitliche Struktur
+- Workload: 150 h
+- Präsenzeit 45 h
+- Selbststudium: 105 h (davon 60 h für die Prüfung)
+- Diese Vorlesung: Es werden 15 h Selbststudium während des Semesters angenommen (für Lesen, Wiederholen usw...). 
+
+### Prüfung
+Nach dem FrSe wird das Modul PSW mit einer schriftlichen Klausur über beide Vorlesungen abgeschlossen. 
+
+### Semesterüberblick
+
+<!-- data-type="none" -->
+| Veranstaltungstitel                                                                                                                    | Was lernst du hier?                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [01 Einführung](01_Einfuehrung.md)                                                                                                     | Die große Vision                                                                       |
+| [02 Grundlagen](02_Grundlagen.md)                                                                                                      | Sport, Wissenschaft, Sportwissenschaft                                                 |
+| [03 Exemplarisch: Naturwissenschaftliche Teildisziplinen](03_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)                   | Sportwissenschaftliche Phänomene aus naturwisenschaftlicher Perspektive                |
+| [03 Exemplarisch: Sozialwissenschaftliche Teildisziplinen](03_Exemplarisch_Sozialwissenschaftliche_Teildisziplinen.md)                 | Sportwissenschaftliche Phänomene aus gesellschaftswissenschaftlicher Perspektive       |
+| [04 Grundlagen qualitatives Forschen](04_Qualitatives_Forschen.md)                                                    | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
+| [05 Grundlagen quantitatives Forschen](05_Quantitatives_Forschen.md)                                                  | Grundlagen sportwissenschaftlichen Arbeits, quantitatives Forschen                      |
+| [06 Abschluss und Klausurvorbereitung](06_Abschluss.md)                                                                                | Rückblick auf das Semester, Hinweise zur Klausur                                       |
 
 ### Zugang zu Materialien
 
 > - **Öffentlich zugängliches Material**: Lege dir einen GitHub-Account an (Link s. [Seite 1](#einführung-in-die-lehveranstaltung)). Es empfiehlt sich, den Kurs am Ende des Semesters in den eigenen Account zu kopieren. 
 > - **Geschütztes Material**: Findest du im Moodle-Kurs "HeSe[JJ] Einführende Perspektiven in die Sportwissenschaft"
 
-### Prüfung
 
-> - Diese Vorlesung gehört zum Modul PSW "Einführende Perspektiven in die Sportwissenschaft" 
-> - Das Modul PSW umfasst auch die Vorlesung "Grundlagen der Sportpädagogik und Sportdidaktik", die im FrSe angeboten wird. 
-> - Nach dem FrSe wird das Modul PSW mit einer schriftlichen Klausur über beide Vorlesungen abgeschlossen. 
 
 ## Sportstudium an der EUF 
 
@@ -171,7 +207,7 @@ Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-u
 **Sportspezifische Dokumente**
 
  Auf den Seiten des Instituts für Sportwissenschaft findet ihr Angaben 
-- ... zum Studienverlauf im sportwissenschaftlichen Teilstudiengang
+- ... zum [Studienverlauf im sportwissenschaftlichen Teilstudiengang](https://www.uni-flensburg.de/sport/studierende/informationen-und-formulare-zum-studium)
 - ... zu den [sportpraktischen Prüfungen](https://www.uni-flensburg.de/sport/studierende/pruefungen-in-den-bewegungsfeldern). 
 
 ****************************

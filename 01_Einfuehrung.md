@@ -113,6 +113,40 @@ Die Lehrkraft hat das Ziel, dass sich die Kinder ihrer 3. Klasse im Springen ver
 > **PA (5 min)** <br>
 > Welchen Unterrichtsverlauf prognostiziert ihr? 
 
+
+{{2}}
+<style>
+#sprung-bild {
+  display: none;
+}
+</style>
+
+<div id="sprung-schutz">
+  <p>🔒 <strong>Sprungvariationen</strong></p>
+
+  <input
+    type="password"
+    id="sprung-passwort"
+    placeholder="Passwort eingeben">
+
+  <button onclick="
+    if (document.getElementById('sprung-passwort').value === 'Sprung') {
+      document.getElementById('sprung-bild').style.display = 'block';
+      document.getElementById('sprung-schutz').style.display = 'none';
+    } else {
+      alert('Falsches Passwort.');
+    }
+  ">
+    Öffnen
+  </button>
+</div>
+
+<div id="sprung-bild">
+
+![Sprungvariationen](img/AB_Sprungvariationen.png)
+
+</div>
+
 ## Das PSW-Modul 
 
 ### Modulzusammensetzung

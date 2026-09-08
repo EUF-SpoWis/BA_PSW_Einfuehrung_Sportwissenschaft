@@ -26,13 +26,15 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 
 ## Zum Gegenstand Sport
 
-### Historische Entwicklungen von der Gymnastik zum Sport
+### Gymnastik, Turnen, Sport
+
+{{1-2}}
+*********
 
 ![GutsMuths](img/Portrait_GutsMuths.jpg "Porträt von Johann Christoph Friedrich GutsMuths. Nach J‑C‑F‑GutsMuths, Wikimedia Commons, o. J., Wikimedia Commons (https://commons.wikimedia.org/wiki/File:J-C-F-GutsMuths.jpg), gemeinfrei (Public Domain)")
 ![Ludwig Jahn](img/Portrait_Jahn.jpg "Porträt von Ludwig Jahn. Nach Friedrich‑Ludwig‑Jahn‑Museums, Freyburg (Unstrut), veröffentlicht über museum-digital:sachsen-anhalt (https://nat.museum-digital.de/singleimage?imagenr=955). Friedrich‑Ludwig‑Jahn‑Museum, Lizenz: CC BY‑NC‑SA 4.0")
 ![Pestalozzi](img/Portrait_Pestalozzi.jpg "Porträt von Johann Heinrich Pestalozzi. Aus Store Norske Leksikon, https://snl.no/Johann_Heinrich_Pestalozzi (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/deed.no)")
 ![Streicher](img/Portrait_Streicher.jpg "Porträt von Margarete Streicher. Aus Größing (2007): Margarethe Streicher. Frau in einer starken Männerwelt. Verlag Brüder Hollinek." )
-
 
 Es gibt diverse historische begriffliche Vorläufer für das, was wir heute unter Sport verstehen...
 - Johann Christoph Friedrich GutsMuths (1759-1839) prägte den Begriff der *Gymnastik*
@@ -41,25 +43,76 @@ Es gibt diverse historische begriffliche Vorläufer für das, was wir heute unte
 - Margartehe Streich (1891-1985) prägte den reformpädagogisch konnotierten Begriff des *natürlichen Turnens*
 - Erst Ende des 20. Jahrunderts wurde der englische *sports* in Kontinentaleuropa populär und es kam zu einer entsprechenden Begriffsverwendung  
 
+******
+
+
+{{2-3}}
+*********
+
 Sport war als Freizeitbeschäftigung des Adels, der *leisure class*, ein soziales Distinktionsmerkmal. Hierzu gehörten (s. Krüger, 2013)
 - seit dem 17. und 18. Jahrhundert:  das Reiten und Jagen, der Segel- und Yachtsport
 - seit dem 19. Jahrhundert: auch Kricket, Golf, Tennis, Boxen, Laufen und Rudern
+- Sport in Engalnd war früh mit Sportwetten verbunden. Damit diese fair geschlossen werden konneten, brauchte es Regeln 
 
-<!-- Noch heute sind enige Sportarten in dieser Tradition in gesellschafltichen Schichten besonders vertreten -->
+*********
 
-### Verschiedene Definitionen
+{{3-4}}
+![Oxford-Cambridge Boat-Race 1877](https://upload.wikimedia.org/wikipedia/commons/e/e0/Dead_heat_finish_1877.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
+<!-- Noch heute sind einige Sportarten in dieser Tradition in gesellschafltichen Schichten besonders vertreten -->
+
+
+### Versportlichung und Entsportlichung
+
+> <!-- style="font-size:1.3em" -->
+> „Aus einer relativ eng begrenzten Zahl von menschlichen Handlungsmustern, die man mit dem Sammelnamen Sport meinte, ist (…) ein diffuses Gemisch an Mustern entstanden, dessen Zuordnung zum ‚Gesamtsortiment Sport‘ in hohem Maße von subjektiven Werturteilen abhängt. Atemgymnastik, Wandern, Baden, Yoga oder Jogging sind je nach Standort des Urteilenden ‚richtiger Sport‘ oder ‚auf keinen Fall Sport‘“ 
+>
+> -- (Digel, 1990, S. 77)
+
+--{{0}}--
+Heute könnte man ebenso Ausdifferenzierungen des Sports wie Nordic Walking oder Kitsurfen oder kulturelle Entwicklungen wie Skateboarding ergänzen (Fahrner, 2025)
+
+### Sport-Definitionen
+
+{{1-2}}
 "Was im allgemeinen unter Sport verstanden wird, ist weniger eine Frage wissenschaftlicher Dimensionsanalysen, sondern wird weit mehr vom alltagstheoretischen Gebrauch sowie von den historisch gewachsenen und tradierten Einbindungen in soziale, ökonomische, politische und rechtliche Gegebenheiten bestimmt. Darüber hinaus verändert, erweitert und differenziert das faktische Geschehen des Sporttreibens selbst das Begriffsverständnis von Sport." (Röthing & Prohl, 2003, S. 493)
+
+{{2-3}}
+********************************************************************************************************************
 
 **Verschiedene Definitionen**
 
-1. „Sport ist die willkürliche Schaffung von Aufgaben, Problemen oder Konflikten, die vorwiegend mit körperlichen Mitteln gelöst werden. Die Lösungen sind beliebig wiederholbar, verbesserbar und übbar, und die Handlungsergebnisse führen nicht unmittelbar zu materiellen Veränderungen.“ (Volkamer, 1987)
-2. „Sport ist ein kulturelles Tätigkeitsfeld, in dem Menschen sich freiwillig in eine wirkliche oder auch nur vorgestellte Beziehung zu anderen Menschen begeben mit der bewussten Absicht, ihre Fähigkeiten und Fertigkeiten insbesondere im Gebiet der Bewegungskunst zu entwickeln und sich mit diesen Menschen nach selbstgesetzten oder übernommenen Regeln zu vergleichen, ohne sie oder sich selbst schädigen zu wollen.“ (Tiedemann, 2007)
-3. „Sport ist eine außeralltägliche, unnötige, regelbasierte, wettkampfförmige, fertigkeitenbasierte körperliche Aktivität oder Praxis, in der kooperiert wird, um [...] überhaupt einen Wettbewerb zu haben, wobei bloße *Sportteilnehmer:innen* die Umsetzung der konstitutiven Regeln einer Sportart erdulden oder tolerieren, während Sportpraktiker:innen zudem darauf abzielen [...] den Wettbewerb zu gewinnen, zumindest nicht zu verlieren, an welchem Sportwettkampf sie auch teilnehmen." (Borge, 2022, S. 309, eigene Übersetzung)
+>[!Note] 💡 Definitionen
+> 1. „Sport ist die willkürliche Schaffung von Aufgaben, Problemen oder Konflikten, die vorwiegend mit körperlichen Mitteln gelöst werden. Die Lösungen sind beliebig wiederholbar, verbesserbar und übbar, und die Handlungsergebnisse führen nicht unmittelbar zu materiellen Veränderungen“ (Volkamer, 1987).
+>2. „Sport ist ein kulturelles Tätigkeitsfeld, in dem Menschen sich freiwillig in eine wirkliche oder auch nur vorgestellte Beziehung zu anderen Menschen begeben mit der bewussten Absicht, ihre Fähigkeiten und Fertigkeiten insbesondere im Gebiet der Bewegungskunst zu entwickeln und sich mit diesen Menschen nach selbstgesetzten oder übernommenen Regeln zu vergleichen, ohne sie oder sich selbst schädigen zu wollen“ (Tiedemann, 2007).
+>3. „Sport ist eine außeralltägliche, unnötige, regelbasierte, wettkampfförmige, fertigkeitenbasierte körperliche Aktivität oder Praxis, in der kooperiert wird, um [...] überhaupt einen Wettbewerb zu haben, wobei bloße *Sportteilnehmer:innen* die Umsetzung der konstitutiven Regeln einer Sportart erdulden oder tolerieren, während Sportpraktiker:innen zudem darauf abzielen [...] den Wettbewerb zu gewinnen, zumindest nicht zu verlieren, an welchem Sportwettkampf sie auch teilnehmen" (Borge, 2022, S. 309, eigene Übersetzung).
+>4. Zur Aufnahme in den DOSB müssen folgende Kriterien erfüllt werden: "eigene, sportartbestimmende motorische Aktivität", "Selbstzweck der Betätigung" und "Einhaltung ethischer Werte wie z. B. Fairplay, Chancengleichheit, Unverletzlichkeit der Person und Partnerschaft durch Regeln und/oder ein System von Wettkampf- und Klasseneinteilungen" (s. [DOSB](https://www.dosb.de/wissen/detail/mitglied-im-dosb)).
 
->**Aufgabe**
+********************************************************************************************************************
+
+{{3-4}}
+********************************************************************************************************************
+
+**Eine Essenz verschiedener Definitionen (s. auch Güllich,. 20222)**
+* Motorische Handlung 
+* frewillige Selbsterschernis
+* Unproduktivität        
+* soziale Regelung
+
+********************************************************************************************************************
+
+{{4-5}}
+********************************************************************************************************************
+
+>** 👥 Aufgabe**
 >
->Kläre mit deinem Sitznachbarn: (a) Ist Schach Sport? (b) Ist Boxen Sport? 
+>Kläre mit deinem Sitznachbarn und stimmt ab: Welche der folgenden Aktivitäten ist Sport? 
+[[Schach]] Schach 
+[[Boxen]] Boxen 
+[[Dressurreiten]] Dressurreiten
+[[3x3]] 3 x 3
+
+********************************************************************************************************************
 
 ### Sportmodelle nach Heinemannm 
 | Modell                      | Beschreibung                                                                 |
@@ -122,6 +175,13 @@ Und was ist Wissenschaft?.
 Bearbeite in der Gruppe... 
 
 </details>
+
+## Sportwissenschaft in Deutschland
+
+- 54 universiäre Einrichtungen zur Sportwissenschaft in Deutschland
+- knapp mehr als 30.000 Studierend in Deutschland (Burk & Farhner, 2025, S. 16)
+- VIelfältige Studienangebote 
+
 
 
 

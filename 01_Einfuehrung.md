@@ -91,8 +91,9 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 
 ### Beispiel I
 
- <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">	<iframe src="https://uni-flensburg.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3a6c214e-815c-44f6-857f-b3760109780e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="In Panopto integrierter Videoplayer" aria-description="Video 1"></iframe></div>
-Video 1
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://uni-flensburg.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0e63f966-d701-45ad-a423-b4be0143eeff&autoplay=false&offerviewer=true&showtitle=false&showbrand=true&captions=false&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="In Panopto integrierter Videoplayer" aria-description="PSW1_Akrobatik"></iframe>
+</div>
 
 ### Professionelle Kompetenzen entwicklen
 
@@ -110,18 +111,13 @@ Die Lehrkraft hat das Ziel, dass sich die Kinder ihrer 3. Klasse im Springen ver
 - Springe im Sprunglauf. 
 
 {{1}}
-> **PA (5 min)** <br>
+> **👥 (5 min)** <br>
 > Welchen Unterrichtsverlauf prognostiziert ihr? 
 
 
 {{2}}
-<style>
-#sprung-bild {
-  display: none;
-}
-</style>
-
 <div id="sprung-schutz">
+
   <p>🔒 <strong>Sprungvariationen</strong></p>
 
   <input
@@ -139,35 +135,41 @@ Die Lehrkraft hat das Ziel, dass sich die Kinder ihrer 3. Klasse im Springen ver
   ">
     Öffnen
   </button>
+
 </div>
 
-<div id="sprung-bild">
+<div id="sprung-bild" style="display: none;">
 
 ![Sprungvariationen](img/AB_Sprungvariationen.png)
 
 </div>
 
+
 ## Das PSW-Modul 
 
-### Modulzusammensetzung
 > - Diese Vorlesung gehört zum Modul PSW "Einführende Perspektiven in die Sportwissenschaft" 
 > - Das Modul PSW umfasst auch die Vorlesung "Grundlagen der Sportpädagogik und Sportdidaktik", die im FrSe angeboten wird. 
 
 ### Qualifikationsziele
 
-**In diesem Semester**
-- Ich kenne Aufbau, Ziele und grundlegende Arbeitsweisen des sportwissenschaftlichen Studiums 
-- Ich kann übergreifende Disziplinen und grundlegende wissenschaftliche Methoden der Sportwissenschaft benennen, mit exemplarischen Inhalten verknüpfen und in vereinfachten Problemstellungen anwenden. 
+{{0-1}}
+>[!TIP]🎯 **In diesem Semester**
+>- Ich kenne Aufbau, Ziele und grundlegende Arbeitsweisen des sportwissenschaftlichen Studiums.
+>- Ich kann übergreifende Disziplinen und grundlegende wissenschaftliche Methoden der Sportwissenschaft benennen, mit exemplarischen Inhalten verknüpfen und in vereinfachten Problemstellungen anwenden. 
 
-**... im nächstem Semeter**
-- Ich habe grundlegende Kenntnisse der Sportpädagogik und Sportdidaktik und bin in der Lage, zentrale Bildungs- und Erziehungsziele von Bewegung, Spiel und Sport vor dem Hintergrund historischer, anthropologischer und aktueller gesellschaftlicher Fragestellungen einzuordnen.
-- Ich kann auf der Basis sportpädagogischer bzw. sportdidaktischer Grundlagen, fremdes professionelles Handeln auf grundlegendem Niveau begründet analysieren und  bewerten sowie eigenes professionelles Handeln in ersten Ansätzen planen."
+{{1-2}}
+>[!NOTE]🎯 **... im nächsten Semeter**
+> - Ich habe grundlegende Kenntnisse der Sportpädagogik und Sportdidaktik und bin in der Lage, zentrale Bildungs- und Erziehungsziele von Bewegung, Spiel und Sport vor dem Hintergrund historischer, anthropologischer und aktueller gesellschaftlicher Fragestellungen einzuordnen.
+> - Ich kann auf der Basis sportpädagogischer bzw. sportdidaktischer Grundlagen, fremdes professionelles Handeln auf grundlegendem Niveau begründet analysieren und  bewerten sowie eigenes professionelles Handeln in ersten Ansätzen planen."
 
 ### Zeitliche Struktur
-- Workload: 150 h
-- Präsenzeit 45 h
-- Selbststudium: 105 h (davon 60 h für die Prüfung)
-- Diese Vorlesung: Es werden 15 h Selbststudium während des Semesters angenommen (für Lesen, Wiederholen usw...). 
+
+<!-- data-type="PieChart" -->
+| Workloud im PSW Modul  |Präsenszeit  | Selbststudium – Vor-/Nachbereiten  |Prüfungsvorbereitung |
+|----------------------  |-------------|------------------------------------|---------------------|
+|PSW-V1                  |15           | 15                                 | 20                  |
+|PSW-V2                  |30           | 30                                 | 40                  |
+|GESAMT                  |45           | 45                                 | 60                  |
 
 ### Prüfung
 Nach dem FrSe wird das Modul PSW mit einer schriftlichen Klausur über beide Vorlesungen abgeschlossen. 
@@ -189,8 +191,6 @@ Nach dem FrSe wird das Modul PSW mit einer schriftlichen Klausur über beide Vor
 
 > - **Öffentlich zugängliches Material**: Lege dir einen GitHub-Account an (Link s. [Seite 1](#einführung-in-die-lehveranstaltung)). Es empfiehlt sich, den Kurs am Ende des Semesters in den eigenen Account zu kopieren. 
 > - **Geschütztes Material**: Findest du im Moodle-Kurs "HeSe[JJ] Einführende Perspektiven in die Sportwissenschaft"
-
-
 
 ## Sportstudium an der EUF 
 
@@ -218,8 +218,19 @@ Nach dem FrSe wird das Modul PSW mit einer schriftlichen Klausur über beide Vor
 
 
 ### Institut für Sportwissenschaft und Team
-??[Institut](https://www.uni-flensburg.de/sport)
 
+<div style="border: 1px solid #ccc; border-radius: 8px; overflow: hidden; margin: 1em 0;">
+  <iframe
+    src="https://www.uni-flensburg.de/sport"
+    width="100%"
+    height="700"
+    loading="eager"
+    style="display: block; border: none;">
+  </iframe>
+</div>
+
+
+ 
 ### Studiendokumente
 
 {{0-3}}
@@ -252,15 +263,15 @@ Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-u
 
 ### Rechercheaufträge
 
-> **Recherchiere in der Fachprüfungsordnung die folgenden Informationen**
+> [!NOTE] 📝 **Recherchiere in der Fachprüfungsordnung die folgenden Informationen**
 > 
 > * Wie viele Leistungspunkte werden für das Modul 3 vergeben?
 > * In welchen Lehrveranstaltungen besteht eine Anwesenheitspflicht?
 > * Welches Prüfungsformat ist im Modul "Lehren und Lernen in den Sportspielen" vorgesehen?
 > * In wechem Semester liegt das Modul "Sportpädagogik des Kindes- und Jugendalters"?
 > * In welcher Lehveranstaltung muss eine Prüfungsvorleistung erbracht werden?
->
-> **Recherchiere auf den Seiten des Instituts für Sportwissenschaft**
+
+> [!NOTE] 📝 **Recherchiere auf den Seiten des Instituts für Sportwissenschaft**
 >
 > * Wie viele Prüfungsteile umfasst die praktische Prüfung im Bewegungsfeld Laufen, Springen und Werfen?
 > * Welche Prüfungsleistung im Bewegunsgfeld Bewegen im Wasser ist notwendig für die Note 2,3? 
@@ -306,7 +317,7 @@ Welche Studierende besuchen das Modul "Ausgewählte Themen der Sportwissenschaft
 - [[x]] Studierende mit dem Ziel fachwissenschaftlicher Masterstudiengang.
 
 
-Mit welcher Note wird in der Veranstaltung "Laufen, Springen Werfen" eine Weitsprungleistung von 4,20 m bei den Studentinnen bewertet?
+Mit welcher Note wird in der Veranstaltung "Bewegen im Wasser" die Leistung XX bei Studentinnen bewertet?
 
 - [[ ]] 2,0
 - [[ ]] 2,3

@@ -23,3 +23,5 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 | **Autoren:**             | @author                                                                                         |
 
 > (c) Alle Rechte vorbehalten. 
+
+> [!CAUTION] **Die Seite befindet sich im Aufbau und wird zu gegebener Zeit freigegeben.**

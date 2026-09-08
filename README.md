@@ -14,17 +14,17 @@ Dieser Kurs vermittelt einführende Grundlagen zur Sportwissenschaft und zum spo
 - Den Aufbau der Sportwissenschaft und grundlegender Gegenstandfelder sowie Teildisziplinen verstehen
 - Zentrale wissenschaftliche Methoden kennenlernen und anwenden
 
-### 📖 Vorlesungsstruktur (7 Sitzungen)
+### 📖 Vorlesungsstruktur
 
-| Veranstaltungstitel                                                                                                                    | Was lernen Sie hier?                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [00 Einführung](00_Einfuehrung.md)                                                                                                     | Die große Vision                                                                       |
-| [01 Grundlagen](01_Grundlagen.md)                                                                                                      | Sport, Wissenschaft, Sportwissenschaft                                                 |
-| [02 Exemplarisch: Naturwissenschaftliche Teildisziplinen](02_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)                   | Sportwissenschaftliche Phänomene aus naturwisenschaftlicher Perspektive                |
-| [03 Exemplarisch: Sozialwissenschaftliche Teildisziplinen](03_Exemplarisch_Sozialwissenschaftliche_Teildisziplinen.md)                 | Sportwissenschaftliche Phänomene aus gesellschaftswissenschaftlicher Perspektive       |
-| [04 How do we catch our cats? - Qualitatives Forschen](04_Qualitatives_Forschen.md)                                                    | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
-| [05 How do we catch our cats? - Quantitatives Forschen](05_Quantitatives_Forschen.md)                                                  | Grundlagen sportwissenschaftlichen Arbeits, quantitatives Forschen                      |
-| [07 Abschluss und Klausurvorbereitung](07_Abschluss.md)                                                                                | Rückblick auf das Semester, Hinweise zur Klausur                                       |
+| Veranstaltungstitel                                                                               | Was lernst du hier?                                                                    |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [01 Einführung](01_Einfuehrung.md)                                                                | Die große Vision                                                                       |
+| [02 Grundlagen](02_Grundlagen.md)                                                                 | Sport, Wissenschaft, Sportwissenschaft                                                 |
+| [03 Sprtwissenschaft exemplarisch](03_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)     | Sportwissenschaftliche Phänomene aus der Perspektive exemplarischer Teildisziplinen    |
+| [04 Grundlagen qualitatives Forschen](04_Qualitatives_Forschen.md)                                | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
+| [05 Grundlagen quantitatives Forschen](05_Quantitatives_Forschen.md)                              | Grundlagen sportwissenschaftlichen Arbeits, quantitatives Forschen                     |
+| [06 Abschluss und Klausurvorbereitung](06_Abschluss.md)                                           | Rückblick auf das Semester, Hinweise zur Klausur                                       |
+
 
 
 ## 🚀 Kurs starten
@@ -46,7 +46,7 @@ git clone https://github.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft
 ├── 00_Einfuehrung.md                   # Kurseinführung
 ├── 01_Grundlagen.md                    # Orientierungen und zentrale Grundlagen der Sportwissenschaft
 ├── ...                                 # Weitere Vorlesungen
-├── 07_Abschluss.md                     # Abschluss und Klausurvorbereitung
+├── 06_Abschluss.md                     # Abschluss und Klausurvorbereitung
 ├── images/                             # Grafiken und Diagramme
 ├── material/                           # Zusätzliche Materialien
 ├── config.md                           # Kurs-Konfiguration
@@ -62,7 +62,7 @@ Siehe [CHANGELOG.md](CHANGELOG.md) für detaillierte Änderungen.
 
 ## 👥 Team
 
-### 🎓 Hauptautoren (alle 7 Vorlesungen)
+### 🎓 Hauptautoren
 - **Prof. Tim Heemsoth** - Kursleitung und Inhalte  
   📧 tim.heemsoth@uni-flensburg.de
 

@@ -26,7 +26,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 
 ## Zum Gegenstand Sport
 
-### Gymnastik, Turnen, Sport
+### Gymnastik, Turnen, Sport - Test
 
 {{1-2}}
 *********

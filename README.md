@@ -1,6 +1,6 @@
 # Einführung in die Sportwissenschaft und das sportwissenschaftliche Arbeiten
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/main/README.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/README.md#1)
 
 **Lehrveranstaltung für Studierende mit Teilstudiengang Sport, 1. Semester**
 
@@ -32,12 +32,12 @@ Dieser Kurs vermittelt einführende Grundlagen zur Sportwissenschaft und zum spo
 ### Online (Empfohlen)
 Klicken Sie auf das LiaScript-Badge oben oder besuchen Sie:
 ```
-https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft/main/00_Einfuehrung.md#1
+https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/01_Einfuehrung.md#1
 ```
 
 ### Lokal
 ```bash
-git clone https://github.com/EUF-SpoWis/M1_Einfuehrung_Sportwissenschaft
+git clone https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft
 ```
 
 ## 📁 Repository-Struktur

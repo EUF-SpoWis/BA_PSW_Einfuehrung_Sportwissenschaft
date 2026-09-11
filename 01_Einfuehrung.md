@@ -189,7 +189,7 @@ Nach dem FrSe wird das Modul PSW mit einer schriftlichen Klausur über beide Vor
 ### Zugang zu Materialien
 
 > - **Öffentlich zugängliches Material**: Lege dir einen GitHub-Account an (Link s. [Seite 1](#einführung-in-die-lehveranstaltung)). Es empfiehlt sich, den Kurs am Ende des Semesters in den eigenen Account zu kopieren. 
-> - **Geschütztes Material**: Findest du im Moodle-Kurs "HeSe[JJ] Einführende Perspektiven in die Sportwissenschaft"
+> - **Geschütztes Material**: Findest du im Moodle-Kurs "HeSe[JJ] Modul PSW - Einführende Perspektiven in die Sportwissenschaft"
 
 ## Sportstudium an der EUF 
 

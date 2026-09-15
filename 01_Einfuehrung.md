@@ -53,7 +53,13 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 ***************************************************************************************************************************************************************************************
 **Was motiviert dich zum Sportstudium?**
 
-    [[___]]
+[[Fitness]]               Ich will meine Fitness stärken. 
+[[Bewegungskompetenzen]]  Ich will vielfältige Bewegungen lernen. 
+[[Verstehen]]             Ich will Sport und Bewegung aus verschiedenen Perspektiven verstehen. 
+[[Vermitteln]]            Ich will anderen Sport und Bewegung erfolgreich vermitteln. 
+[[Miteinander]]           Ich will mit anderen gemeinsam Sport machen. 
+[[anderes]]               anderes
+
 ***************************************************************************************************************************************************************************************
 
 
@@ -61,7 +67,12 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 ***************************************************************************************************************************************************************************************
 **Was hat dich zur Wahl der EUF als Studienstandort bewogen?**
 
-    [[___]]
+[[Heimat]]                Die Nähe zur Heimat.
+[[Bewegungskompetenzen]]  Die Nähe zum Wasser. 
+[[Verstehen]]             Das Studienangebot.  
+[[Vermitteln]]            Der Ruf der Hochschule. 
+[[Miteinander]]           Freunde, Bekannte vor Ort...
+[[anderes]]               anderes
 ***************************************************************************************************************************************************************************************
 
 
@@ -258,7 +269,7 @@ Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-u
 
 ### Studieninformation
 
-> Auf den Seiten des Instituts für Sportwissenschaft findet ihr Informationen zur Studienberatung und Fragen der [Anerkennung von an anderen Institituionen erbrachten Leistungen](https://www.uni-flensburg.de/sport/studierende/studienberatung-und-anerkennung).
+> Auf den Seiten des Instituts für Sportwissenschaft findet ihr Informationen zur [Studienberatung und Fragen der Anerkennung von an anderen Institituionen erbrachten Leistungen](https://www.uni-flensburg.de/sport/studierende/studienberatung-und-anerkennung).
 
 ### Rechercheaufträge
 

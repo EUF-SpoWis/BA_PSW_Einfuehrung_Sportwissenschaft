@@ -9,7 +9,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 
 -->
 
-# Einführung in die Lehveranstaltung
+# Einführung
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/01_Einfuehrung.md#1)
 
@@ -102,6 +102,9 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 
 ### Beispiel I
 
+>[!TIP] **Arbeitsauftrag**
+>Betrachte den folgenden Videoausschnitt. Inwieweit agiert die Lehrkraft professionell?
+
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
 	<iframe src="https://uni-flensburg.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0e63f966-d701-45ad-a423-b4be0143eeff&autoplay=false&offerviewer=true&showtitle=false&showbrand=true&captions=false&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="In Panopto integrierter Videoplayer" aria-description="PSW1_Akrobatik"></iframe>
 </div>
@@ -109,21 +112,21 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 ### Professionelle Kompetenzen entwicklen
 
 --{{0}}--
-Die Professionsforschung unterscheidet zwischen verschiedenen Kompetenzfacetten, die pädagogisch Professionelle benötigen. um erfolgreiche Lern- und Bildungsangebote zu machen. Dazu zählen insbesondere das professionelle Wissen, motivationale Orientierungen, selbstregulative Fähigkeiten sowie Überzeugungen und Werthaltungen. Das Studium an der EUF hat das Ziel, Studierende in all diesen Facetten zu stärken.
+Die Professionsforschung unterscheidet zwischen verschiedenen Kompetenzfacetten, die pädagogisch Professionelle benötigen, um erfolgreiche Lern- und Bildungsangebote zu schaffen. Dazu zählen insbesondere das professionelle Wissen, motivationale Orientierungen, selbstregulative Fähigkeiten sowie Überzeugungen und Werthaltungen. Das Studium an der EUF hat das Ziel, Studierende in all diesen Facetten zu stärken.
 
 ![Facetten professioneller Handlungkompetenz](img/Modell_ProfWiss.png "Facetten professioneller Handlungskompetenz für Sportlehrkräfte, adaptiert nach Baumert & Kunter, 2006")
 
 ### Beispiel II
 
 Die Lehrkraft hat das Ziel, dass sich die Kinder ihrer 3. Klasse im Springen verbessern. In trainingswissenschaftlicher Literatur identifiziert die Lehrkraft verschiedene Sprungübungen. In der Sportstunde sollen sich  die Schüler*innen in einer Reihe aufstellen und Sprünge quer durch die Halle durchführen. Dafür formuliert die Lehrkraft mündlich verschiedene Aufgaben:  
-- Springe Schlusssprünge mit paralleleln Beinen. 
+- Springe Schlusssprünge mit parallelen Beinen. 
 - Springe nur mit links.
 - Springe nur mit rechts.
 - Springe im Sprunglauf. 
 
 {{1}}
-> **👥 (5 min)** <br>
-> Welchen Unterrichtsverlauf prognostiziert ihr? 
+>[!TIP] **Arbeitsauftrag (5 min)**
+>Welchen Unterrichtsverlauf prognostiziert ihr? 
 
 
 {{2}}
@@ -164,7 +167,7 @@ Die Lehrkraft hat das Ziel, dass sich die Kinder ihrer 3. Klasse im Springen ver
 ### Qualifikationsziele
 
 {{0-1}}
->[!TIP]🎯 **In diesem Semester**
+>[!NOTE]🎯 **In diesem Semester**
 >- Ich kenne Aufbau, Ziele und grundlegende Arbeitsweisen des sportwissenschaftlichen Studiums.
 >- Ich kann übergreifende Disziplinen und grundlegende wissenschaftliche Methoden der Sportwissenschaft benennen, mit exemplarischen Inhalten verknüpfen und in vereinfachten Problemstellungen anwenden. 
 
@@ -192,7 +195,7 @@ Nach dem FrSe wird das Modul PSW mit einer schriftlichen Klausur über beide Vor
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | [01 Einführung](01_Einfuehrung.md)                                                                | Die große Vision                                                                       |
 | [02 Grundlagen](02_Grundlagen.md)                                                                 | Sport, Wissenschaft, Sportwissenschaft                                                 |
-| [03 Sprtwissenschaft exemplarisch](03_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)     | Sportwissenschaftliche Phänomene aus der Perspektive exemplarischer Teildisziplinen    |
+| [03 Sportwissenschaft exemplarisch](03_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)     | Sportwissenschaftliche Phänomene aus der Perspektive exemplarischer Teildisziplinen    |
 | [04 Grundlagen qualitatives Forschen](04_Qualitatives_Forschen.md)                                | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
 | [05 Grundlagen quantitatives Forschen](05_Quantitatives_Forschen.md)                              | Grundlagen sportwissenschaftlichen Arbeits, quantitatives Forschen                     |
 | [06 Abschluss und Klausurvorbereitung](06_Abschluss.md)                                           | Rückblick auf das Semester, Hinweise zur Klausur                                       |
@@ -273,19 +276,17 @@ Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-u
 
 ### Rechercheaufträge
 
-> [!NOTE] 📝 **Recherchiere in der Fachprüfungsordnung die folgenden Informationen**
-> 
-> * Wie viele Leistungspunkte werden für das Modul 3 vergeben?
-> * In welchen Lehrveranstaltungen besteht eine Anwesenheitspflicht?
+> [!TIP] **Recherchiere in der Fachprüfungsordnung**
+> * Wie viele Leistungspunkte werden für das Modul LLB vergeben?
+> * In welchen Lehrveranstaltungen besteht eine Teilnahmepflicht?
 > * Welches Prüfungsformat ist im Modul "Lehren und Lernen in den Sportspielen" vorgesehen?
 > * In wechem Semester liegt das Modul "Sportpädagogik des Kindes- und Jugendalters"?
-> * In welcher Lehveranstaltung muss eine Prüfungsvorleistung erbracht werden?
+> * In welcher Lehrveranstaltung muss eine Prüfungsvorleistung erbracht werden?
 
-> [!NOTE] 📝 **Recherchiere auf den Seiten des Instituts für Sportwissenschaft**
->
-> * Wie viele Prüfungsteile umfasst die praktische Prüfung im Bewegungsfeld Laufen, Springen und Werfen?
-> * Welche Prüfungsleistung im Bewegunsgfeld Bewegen im Wasser ist notwendig für die Note 2,3? 
-> * Wer verantwortet die Studienberatung im Bachelor Teilstudiengang Sportwissenschaft?
+> [!TIP] **Recherchiere auf den Seiten des Instituts für Sportwissenschaft**
+> * Welche Prüfungsleistung im Weitsprung  ist notwendig für die Note 1,3? 
+> * Welche Prüfungsleistung im Bewegungsfeld Bewegen im Wasser beim 100 m Freistil ist notwendig für die Note 2,7? 
+> * Wer verantwortet die Studienberatung im Bachelor Teilstudiengang Sport?
 > * Wer leitet den Arbeitsbereich Bewegungs- und Trainingswissenschaft?
 
 ## Übungsfragen
@@ -297,12 +298,12 @@ Aus wie vielen Veranstaltungen besteht das Modul "Sport und Gesundheit"?
 - [[ ]] 3
 - [[ ]] 4
 
-Wer bietet die Studienberatung im Bachelor im Fach Sport an?
+Wer kümmert sich um die Anerkennung von Studienleistungen die z. B. an anderen Universitäten erbracht wurden?
 
 - [[ ]] Meike Starke
-- [[ ]] Tobias Regenbrecht
+- [[x]] Tobias Regenbrecht
 - [[ ]] Tim Heemsoth
-- [[x]] Nele Schlapkohl
+- [[ ]] Nele Schlapkohl
 
 Mit welcher Prüfungsleistung endet das Modul "Lehren und Lernen in den Sportspielen"?
 
@@ -313,9 +314,9 @@ Mit welcher Prüfungsleistung endet das Modul "Lehren und Lernen in den Sportspi
 
 Wie viele Leistungspunkte werden im Modul "Bewegungsgestaltung, Freizeit- und Trendsportarten" erworben?
 
-- [[ ]] 5
+- [[ ]] 10
 - [[ ]] 7
-- [[x]] 10
+- [[x]] 5
 - [[ ]] 12
 
 
@@ -327,13 +328,13 @@ Welche Studierende besuchen das Modul "Ausgewählte Themen der Sportwissenschaft
 - [[x]] Studierende mit dem Ziel fachwissenschaftlicher Masterstudiengang.
 
 
-Mit welcher Note wird in der Veranstaltung "Bewegen im Wasser" die Leistung XX bei Studentinnen bewertet?
+Mit welcher Note wird in der Veranstaltung "Bewegen im Wasser" die Leistung beim 100 m Brustschwimmen mit 2:00,00 bei Studentinnen bewertet?
 
-- [[ ]] 2,0
+- [[x]] 2,0
 - [[ ]] 2,3
-- [[x]] 2,7
+- [[ ]] 2,7
 - [[ ]] 3,0
 
 ## Hausaufgabe
 
-> Lies bis zur nächsten Veranstaltung den folgenden Text... 
+> Lies dir die Fachprüfungsordnung Sport von vorne bis hinten durch und beantworte die Übungsfragen.

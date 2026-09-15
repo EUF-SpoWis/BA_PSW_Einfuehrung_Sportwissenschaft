@@ -250,14 +250,14 @@ Nach dem FrSe wird das Modul PSW mit einer schriftlichen Klausur über beide Vor
 ****************************
 **Rechtliche Verankerung** 
 
-Die [Fachprüfungsordnung](https://www.uni-flensburg.de/die-universitaet/organisation-und-struktur/satzungen-und-ordnungen/dokumente-zum-studium/ba-bildungwissenschaften) informiert über den rechtlich verankerten Rahmen des Studiums incl. Modulverlauf, Leistungspunkte, Prüfungsformen, Studien- und Prüfungsvorleistungen. 
+Die [Fachprüfungsordnung](https://www.uni-flensburg.de/die-universitaet/organisation-und-struktur/satzungen-und-ordnungen/dokumente-zum-studium/ba-bildungwissenschaften-2026) informiert über den rechtlich verankerten Rahmen des Studiums incl. Modulverlauf, Leistungspunkte, Prüfungsformen, Studien- und Prüfungsvorleistungen. 
 ****************************
 
 {{1-3}}
 ****************************
 **Informierende Dokumente** 
 
-Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-und-struktur/satzungen-und-ordnungen/dokumente-zum-studium/ba-bildungwissenschaften) informiert näher über die Inhalte, Prüfungsformate, Semestrigkeit und den geplanten Workload der einzelnen Module. 
+Das [Modulhandbuch](https://www.uni-flensburg.de/die-universitaet/organisation-und-struktur/satzungen-und-ordnungen/dokumente-zum-studium/ba-bildungwissenschaften-2026) informiert näher über die Inhalte, Prüfungsformate, Semestrigkeit und den geplanten Workload der einzelnen Module. 
 ****************************
 
 {{2-3}}

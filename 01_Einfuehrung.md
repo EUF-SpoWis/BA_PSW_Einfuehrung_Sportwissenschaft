@@ -19,7 +19,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 | **Semester:**            | @config.semester                                                                                |
 | **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
 | **Inhalte:**             | `Motivation der Vorlesung und Beschreibung der Organisation der Veranstaltung`                  |
-| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/blob/main/00_Einfuehrung.md      |
+| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/blob/main/01_Einfuehrung.md      |
 | **Autoren:**             | @author                                                                                         |
 
 > (c) Alle Rechte vorbehalten. 

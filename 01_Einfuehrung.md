@@ -114,7 +114,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 --{{0}}--
 Die Professionsforschung unterscheidet zwischen verschiedenen Kompetenzfacetten, die pädagogisch Professionelle benötigen, um erfolgreiche Lern- und Bildungsangebote zu schaffen. Dazu zählen insbesondere das professionelle Wissen, motivationale Orientierungen, selbstregulative Fähigkeiten sowie Überzeugungen und Werthaltungen. Das Studium an der EUF hat das Ziel, Studierende in all diesen Facetten zu stärken.
 
-![Facetten professioneller Handlungkompetenz](img/Modell_ProfWiss.png "Facetten professioneller Handlungskompetenz für Sportlehrkräfte, adaptiert nach Baumert & Kunter, 2006")
+![Facetten professioneller Handlungkompetenz](img/Modell_ProfWiss.png "Facetten professioneller Handlungskompetenz für Sportlehrkräfte, adaptiert nach Baumert & Kunter, 2006; s. auch Heemsoth, 2016")
 
 ### Beispiel II
 
@@ -338,3 +338,10 @@ Mit welcher Note wird in der Veranstaltung "Bewegen im Wasser" die Leistung beim
 ## Hausaufgabe
 
 > Lies dir die Fachprüfungsordnung Sport von vorne bis hinten durch und beantworte die Übungsfragen.
+
+## Literatur 
+<div style="padding-left: 2em; text-indent: -2em;">
+Baumert, J., & Kunter, M. (2006). Stichwort: Professionelle Kompetenz von Lehrkräften. *Zeitschrift für Erziehungswissenschaft, 9*(4), 469–520. https://doi.org/10.1007/s11618-006-0165-2
+
+Heemsoth, T. (2016). Fachspezifisches Wissen von Sportlehrkräften. Ein Überblick über fachübergreifende und fachfremde Ansätze und Perspektiven für die Professionsforschung von Sportlehrkräften. *Zeitschrift für sportpädagogische Forschung, 3*(2), 41–60. 
+</div>

@@ -200,6 +200,9 @@ Nach dem FrSe wird das Modul PSW mit einer schriftlichen Klausur über beide Vor
 | [05 Grundlagen quantitatives Forschen](05_Quantitatives_Forschen.md)                              | Grundlagen sportwissenschaftlichen Arbeits, quantitatives Forschen                     |
 | [06 Abschluss und Klausurvorbereitung](06_Abschluss.md)                                           | Rückblick auf das Semester, Hinweise zur Klausur                                       |
 
+### Besonderheit 2026
+![PASS-Studie](img/pass_logo_v13.png)
+
 ### Zugang zu Materialien
 
 > - **Öffentlich zugängliches Material**: Lege dir einen GitHub-Account an (Link s. [Seite 1](#einführung-in-die-lehveranstaltung)). Es empfiehlt sich, den Kurs am Ende des Semesters in den eigenen Account zu kopieren. 

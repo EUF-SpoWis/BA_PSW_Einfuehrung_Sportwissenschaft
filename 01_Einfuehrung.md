@@ -1,7 +1,7 @@
 <!--
 author: Tim Heemsoth
 email: tim.heemsoth@uni-flensburg.de
-version: 0.0.1
+version: 1.0.0
 language: de
 narrator: Deutsch Female
 

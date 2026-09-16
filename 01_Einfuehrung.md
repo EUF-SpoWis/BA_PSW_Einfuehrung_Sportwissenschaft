@@ -22,8 +22,6 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/blob/main/01_Einfuehrung.md      |
 | **Autoren:**             | @author                                                                                         |
 
-[📄 PDF herunterladen](pdf/01_Einfuehrung.pdf)
-
 > (c) Alle Rechte vorbehalten. 
 
 ## Fragen zum Start

@@ -155,7 +155,10 @@ Entwicklungen in Deutschland
 > -- (Digel, 1990, S. 77)
 
 {{1-2}}
-"Was im allgemeinen unter Sport verstanden wird, ist weniger eine Frage wissenschaftlicher Dimensionsanalysen, sondern wird weit mehr vom alltagstheoretischen Gebrauch sowie von den historisch gewachsenen und tradierten Einbindungen in soziale, ökonomische, politische und rechtliche Gegebenheiten bestimmt. Darüber hinaus verändert, erweitert und differenziert das faktische Geschehen des Sporttreibens selbst das Begriffsverständnis von Sport" (Röthing & Prohl, 2003, S. 493).
+> <!-- style="font-size:1.3em" -->
+>"Was im allgemeinen unter Sport verstanden wird, ist weniger eine Frage wissenschaftlicher Dimensionsanalysen, sondern wird weit mehr vom alltagstheoretischen Gebrauch sowie von den historisch gewachsenen und tradierten Einbindungen in soziale, ökonomische, politische und rechtliche Gegebenheiten bestimmt. Darüber hinaus verändert, erweitert und differenziert das faktische Geschehen des Sporttreibens selbst das Begriffsverständnis von Sport" 
+>
+> -- (Röthing & Prohl, 2003, S. 493).
 
 ### Sport-Definitionen
 

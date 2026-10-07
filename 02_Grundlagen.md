@@ -525,7 +525,7 @@ Gabler 2000
 
 1. Vertiefe die Vorlesung mit dem Text Fahrner, M. (2025) Sportwissenschaft als Fachdisziplin. In V. Burk & M. Fahrner (Hrsg.), *Sportwissenschaft* (S. 19-56). utb https://doi.org/10.36198/9783838564517
 2. Welche gesellschaftlichen Probleme sollte Sportwissenschaft in den jeweiligen Zeitphasen lösen – und welche Probleme sollte sie heute bearbeiten?
-2. Bearbeite die "Zotero-Aufgaben" im Teilabschntitt zu  "Mit Literatur arbeiten". Speichere das Dokument mit dem Titel "Name_Vorname_Matrikelnummer" ab und lade es in Moodle (unter "Hausaufgaben") hoch. 
+2. Bearbeite die "Zotero-Aufgaben" im Teilabschntitt zu  "Mit Literatur arbeiten". Speichere das Dokument mit dem Titel Name_Vorname_Matrikelnummer ab und lade es in Moodle (unter "Hausaufgaben") hoch. 
 
 ## Literatur
 

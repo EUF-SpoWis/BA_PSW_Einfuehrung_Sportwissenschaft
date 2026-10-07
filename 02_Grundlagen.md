@@ -101,15 +101,6 @@ style="
 
 {{1-2}}
 ********************************************************************************************************************
-Entwicklungen in Deutschland
-- Erst Ende des 20. Jahrunderts wurde der englische *sports* in Kontinentaleuropa populär und es kam zu einer entsprechenden Begriffsverwendung
-- Deutscher Adel in den Großstädten übernimmt den Sport etwa im Bereich Segeln, Golf, Tennis
-- 1878 erster Fußballverein in Deutschland (Hannover)
-- weiterhin starke Trennung zwischen Turnen und Sport 
-********************************************************************************************************************
-
-{{2-3}}
-********************************************************************************************************************
 **Wetten und Regeln**
 
 --{{2}}--
@@ -118,12 +109,12 @@ Sport in England war früh mit Sportwetten verbunden. Damit diese fair geschloss
 ![Oxford-Cambridge Boat-Race 1877](https://upload.wikimedia.org/wikipedia/commons/e/e0/Dead_heat_finish_1877.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original "Bildliche Darstellung des Oxford-Cambridge Boat-Race, Quelle: Wikipedia Commons")
 ********************************************************************************************************************
 
-{{3-4}}
+{{2-3}}
 ********************************************************************************************************************
 
 Typologie von Sportregeln (nach Digel, 2003; Drexel, 1998)
 
---{{3}}--
+--{{2}}--
 Nicht jede Regel legt fest, was *erlaubt* ist. Manche beschreiben das Ziel, andere das Miteinander oder kluge Wege zum Erfolg.
 
 | 🤝 Ethisch-moralische Regeln | 🎯 Regeln zur Sportidee |
@@ -136,7 +127,7 @@ Nicht jede Regel legt fest, was *erlaubt* ist. Manche beschreiben das Ziel, ande
 
 ********************************************************************************************************************
 
-{{4-5}}
+{{3-4}}
 ********************************************************************************************************************
 
 > [!TIP] Welche Art von Regel beschreibt dieser Satz?
@@ -144,6 +135,15 @@ Nicht jede Regel legt fest, was *erlaubt* ist. Manche beschreiben das Ziel, ande
 > * "Vor dem Schlagen müssen drei Spieler*innen den Ball halten" <br>
 > * "Nach dem Spiel gibt es Shake Hands"
 
+********************************************************************************************************************
+
+{{4-5}}
+********************************************************************************************************************
+Entwicklungen in Deutschland
+- Erst Ende des 19. Jahrunderts wurde der englische *sports* in Kontinentaleuropa populär und es kam zu einer entsprechenden Begriffsverwendung
+- Deutscher Adel in den Großstädten übernimmt den Sport etwa im Bereich Segeln, Golf, Tennis
+- 1878 erster Fußballverein in Deutschland (Hannover)
+- weiterhin starke Trennung zwischen *Turnen* und *Sport*
 ********************************************************************************************************************
 
 ### Versportlichung und Entsportlichung
@@ -247,7 +247,7 @@ nach Heinemann (1986)
 {{1}}
 ******
 >[!TIP] Aufgabe
->Mit welchen Argumenten begründet Jagnow ESport als Sport? Welche seiner Argumente passen zu den zuvor behandelten Merkmalen von Sport – und an welchen Stellen bleiben Fragen offen? 
+>Mit welchen Argumenten begründet Jagnow E-Sport als Sport? Welche seiner Argumente passen zu den zuvor behandelten Merkmalen von Sport – und an welchen Stellen bleiben Fragen offen? 
 
 <div style="width: 100%; max-width: 800px; margin: 0 auto;">
   <iframe
@@ -273,7 +273,7 @@ Die Frage, ob eSport als Sport anerkannt werden sollte, lässt sich nicht allein
 ********************************************************************************************************************
 >Geklärt wurde NICHT die Frage "Ist E-Sport Sport?" sondern "Lässt sich der E-Sport unter das Dach des organisierten Sports einordnen?"
 
-**Prüfkriterien (u. a.)**
+**Prüfkriterien (u. a.)** (s. Fahrner, 2025)
 * Motorische Aktivität
 * Ethische Normen und Werte
 * Gemeinwohlorientierung
@@ -283,7 +283,7 @@ Die Frage, ob eSport als Sport anerkannt werden sollte, lässt sich nicht allein
 {{1-2}}
 ********************************************************************************************************************
 **Sportartbestimmende motorische Aktivität** <br>
-* motorische Aktivität ist Schnittstelle, im Mittelpunkt steht das geschehen der Avatare <-> andererseits es gibt auch Rückmeldungen, auf die reagiert wird 
+* motorische Aktivität ist Schnittstelle, im Mittelpunkt steht die Bewegung der Avatare <-> andererseits es gibt auch Rückmeldungen, auf die reagiert wird 
 * viel Sitzen birgt Gefahren für die Gesundheit; Computersiele birgen Sucht- und Gesundheitsrisiko
 ********************************************************************************************************************
 
@@ -422,22 +422,17 @@ Gabler 2000
 - Im 19. Jahrhundert entstehen erste Turnlehrerbildungsanstalten – zunächst außerhalb der Universitäten.
 
 ### Institutionalisierung
-- 1920 wird in Berlin die Deutsche Hochschule für Leibesübungen (DHfL) gegründet. 
-- Sie verbindet die Ausbildung von Sportlehrkräften mit Forschung zur Leibeserziehung.
+- 1920 wird in Berlin die Deutsche Hochschule für Leibesübungen (DHfL) gegründet (Verbindung von Sportlehrkräftebildung und Forschung). 
 - 1925 wird  in Leipzig auf die erste außerplanmäßige Professur für Pädagogik der Leibesübungen eingerichtet
-- Leibesübungen werden damit schrittweise Teil universitärer Lehre und Forschung.
 
-> [!WARNING] 💡
-> Die frühe Sportwissenschaft war zunächst vor allem eine Wissenschaft der Leibeserziehung und Lehrerbildung.
+> [!WARNING] 💡 Die frühe Sportwissenschaft war zunächst vor allem eine Wissenschaft der Leibeserziehung und Lehrerbildung.
 
 ### Nationalsozialismus
-- Die Nationalsozialisten werten die Leibeserziehung politisch auf.
-- Körperliche Leistungsfähigkeit, Disziplin, Wehrhaftigkeit und Auslese werden zentrale Bezugspunkte.
+- Die Nationalsozialisten werten die Leibeserziehung politisch auf: Körperliche Leistungsfähigkeit, Disziplin, Wehrhaftigkeit und Auslese werden zentrale Bezugspunkte.
 - Wissenschaft und Ausbildung werden in die NS-Ideologie eingebunden.
 - 1935 wird die DHfL in die Deutsche Reichsakademie für Leibesübungen überführt.
 
-> [!WARNING]💡
-> Institutioneller Ausbau bedeutet nicht automatisch wissenschaftlichen Fortschritt: Sport und Wissenschaft werden im Nationalsozialismus ideologisch und politisch instrumentalisiert.
+> [!WARNING]💡 Institutioneller Ausbau bedeutet nicht automatisch wissenschaftlichen Fortschritt: Sport und Wissenschaft werden im Nationalsozialismus ideologisch und politisch instrumentalisiert.
 
 ### Sportwissenschaft in der BRD - DDR
 
@@ -445,9 +440,8 @@ Gabler 2000
 *****
 **BRD**
 - Nach 1945 wird Sportwissenschaft an Universitäten zunächst skeptisch gesehen; die Bezeichnung „Fakultas der Bauchmuskeln“ steht dafür.
-- In den 1960er- und 1970er-Jahren fördern Bildungsexpansion, gesellschaftliches Sportinteresse und internationale
+- In den 1960er/70er Jahren fördern Bildungsexpansion, gesellschaftliches Sportinteresse und internationale
   Leistungssportkonkurrenz den Ausbau.
-- Die Erfolge der DDR sowie die Olympischen Spiele 1972 in München verstärken den politischen Druck.
 - Ab 1966 entstehen zahlreiche Professuren und Lehrstühle.
 - 1970: Gründung des Bundesinstituts für Sportwissenschaft (BISp).
 - 1971: Erste Ausgabe der Fachzeitschrift *Sportwissenschaft*.
@@ -466,15 +460,13 @@ Gabler 2000
 
 {{2-3}}
 *****
-> [!WARNING]💡
-> Die hohe Leistungsfähigkeit der DDR-Sportwissenschaft ist eng mit staatlicher Steuerung, eingeschränkter Forschungsautonomie und dem DDR-Dopingkomplex verbunden.
+> [!WARNING]💡 Die hohe Leistungsfähigkeit der DDR-Sportwissenschaft ist eng mit staatlicher Steuerung, eingeschränkter Forschungsautonomie und dem DDR-Dopingkomplex verbunden.
 *****
 
 ### Nach 1990 und heute
 
 {{0-2}}
 *****
-- grundlegend umstrukturiert; die DHfK wird abgewickelt.
 - Sportwissenschaft ist heute ein interdisziplinäres Fach.
 - Sie verbindet Trainings- und Bewegungswissenschaft, Sportmedizin,
   Sportpädagogik, Sportpsychologie, Sportsoziologie, Sportökonomie und
@@ -485,8 +477,7 @@ Gabler 2000
 
 {{1-2}}
 *****
-> [!WARNING]💡
-> Sportwissenschaft entwickelte sich von der Leibeserziehung und Turnlehrerbildung über die Institutionalisierung an Hochschulen und die leistungsorientierte Forschung im Kalten Krieg hin zu einer interdisziplinären Wissenschaft von Bewegung, Sport und körperlicher Aktivität.
+> [!WARNING]💡 Sportwissenschaft entwickelte sich von der Leibeserziehung und Turnlehrerbildung über die Institutionalisierung an Hochschulen und die leistungsorientierte Forschung im Kalten Krieg hin zu einer interdisziplinären Wissenschaft von Bewegung, Sport und körperlicher Aktivität.
 *****
 
 {{2-3}}
@@ -565,3 +556,4 @@ Röthin, P & Prohl, R. (2003) *Sportwissenschaftliches Lexikon*. Hofmann.
 Tiedemann , K. (2007). Was ist der Gegenstand der Sportwissenschaft? In M. Lämmer et al. (Hrsg.), *New Aspects of Sport History. Proceedings of the 9th ISHPES Congress Cologne 2005* (p. 435-440). Academia. 
 
 Volkamer, M.  (1987). *Von der Last mit der Lust im Schulsport: Probleme der Pädagogisierung des Sports.* Hofmann.
+</div>

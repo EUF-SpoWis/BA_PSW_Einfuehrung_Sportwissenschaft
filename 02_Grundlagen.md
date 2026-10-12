@@ -378,6 +378,11 @@ Unter einer **Hypothese** versteht man eine allgemeingültige, wissenschaftliche
 {{6}}
 > „In unserer Seminargruppe verbessert Sport immer die Konzentration.“
 
+
+### Sportwissenschaft?
+> Sportwissenschaft zielt darauf ab, mit Hilfe wissenschaftlicher Methoden „die differenzierten Phänomene von Sport, Bewegung und körperlicher Aktivität wahrzunehmen, zu beschreiben, zu analysieren und zu erklären sowie Orientierungen und Entscheidungshilfen für die Verbesserung der vielfältigen Praxis zu entwickeln" (Hottenrott et al, 2017, S. 288).
+
+
 ### Beispiel: Globalmodell motivierten Handelns
 
 ```ascii
@@ -403,90 +408,6 @@ Unter einer **Hypothese** versteht man eine allgemeingültige, wissenschaftliche
 ```
 
 Gabler 2000
-
-## Kurze Geschichte der Sportwissenschaft
-
-{{0-1}}
-********************************************************************************************************************
-**Was ist Sportwissenschaft?**
-
-> Sportwissenschaft zielt darauf ab, mit Hilfe wissenschaftlicher Methoden „die differenzierten Phänomene von Sport, Bewegung und körperlicher Aktivität wahrzunehmen, zu beschreiben, zu analysieren und zu erklären sowie Orientierungen und Entscheidungshilfen für die Verbesserung der vielfältigen Praxis zu entwickeln" (Hottenrott et al, 2017, S. 288).
-
-********************************************************************************************************************
-
-{{1}}
-*****
-> Sportwissenschaft entstand nicht als einheitliche Disziplin. Sie entwickelte sich im Zusammenspiel von Lehrerbildung, Gesundheit, Leistungssport, Politik und gesellschaftlichen Erwartungen an Bewegung.
-*****
-
-### Anfänge in Deutschland
-- Um 1800 betonen philanthropische Pädagogen die Bedeutung körperlicher Aktivität für die ganzheitliche Entwicklung des Menschen.
-- Im Mittelpunkt steht zunächst die Leibeserziehung, nicht die heutige Sportwissenschaft.
-- Im 19. Jahrhundert entstehen erste Turnlehrerbildungsanstalten – zunächst außerhalb der Universitäten.
-
-### Institutionalisierung
-- 1920 wird in Berlin die Deutsche Hochschule für Leibesübungen (DHfL) gegründet (Verbindung von Sportlehrkräftebildung und Forschung). 
-- 1925 wird  in Leipzig auf die erste außerplanmäßige Professur für Pädagogik der Leibesübungen eingerichtet
-
-> [!WARNING] 💡 Die frühe Sportwissenschaft war zunächst vor allem eine Wissenschaft der Leibeserziehung und Lehrerbildung.
-
-### Nationalsozialismus
-- Die Nationalsozialisten werten die Leibeserziehung politisch auf: Körperliche Leistungsfähigkeit, Disziplin, Wehrhaftigkeit und Auslese werden zentrale Bezugspunkte.
-- Wissenschaft und Ausbildung werden in die NS-Ideologie eingebunden.
-- 1935 wird die DHfL in die Deutsche Reichsakademie für Leibesübungen überführt.
-
-> [!WARNING]💡 Institutioneller Ausbau bedeutet nicht automatisch wissenschaftlichen Fortschritt: Sport und Wissenschaft werden im Nationalsozialismus ideologisch und politisch instrumentalisiert.
-
-### Sportwissenschaft in der BRD - DDR
-
-{{0-1}}
-*****
-**BRD**
-- Nach 1945 wird Sportwissenschaft an Universitäten zunächst skeptisch gesehen; die Bezeichnung „Fakultas der Bauchmuskeln“ steht dafür.
-- In den 1960er/70er Jahren fördern Bildungsexpansion, gesellschaftliches Sportinteresse und internationale
-  Leistungssportkonkurrenz den Ausbau.
-- Ab 1966 entstehen zahlreiche Professuren und Lehrstühle.
-- 1970: Gründung des Bundesinstituts für Sportwissenschaft (BISp).
-- 1971: Erste Ausgabe der Fachzeitschrift *Sportwissenschaft*.
-- 1976: Gründung der Deutschen Vereinigung für Sportwissenschaft (dvs).
-*****
-
-{{1-3}}
-*****
-**DDR**
-- 1950: Gründung der Deutschen Hochschule für Körperkultur (DHfK) in Leipzig.
-- Die DHfK wird zur zentralen Ausbildungs- und Forschungsstätte für Körperkultur, Schulsport und Leistungssport.
-- Trainingswissenschaft wird zu einer Kernwissenschaft des DDR-Leistungssports.
-- 1969: Gründung des Forschungsinstituts für Körperkultur und Sport (FKS) in Leipzig.
-- Forschung konzentriert sich unter anderem auf Trainingssteuerung, Leistungsdiagnostik, Biomechanik und Sportmedizin.
-*****
-
-{{2-3}}
-*****
-> [!WARNING]💡 Die hohe Leistungsfähigkeit der DDR-Sportwissenschaft ist eng mit staatlicher Steuerung, eingeschränkter Forschungsautonomie und dem DDR-Dopingkomplex verbunden.
-*****
-
-### Nach 1990 und heute
-
-{{0-2}}
-*****
-- Sportwissenschaft ist heute ein interdisziplinäres Fach.
-- Sie verbindet Trainings- und Bewegungswissenschaft, Sportmedizin,
-  Sportpädagogik, Sportpsychologie, Sportsoziologie, Sportökonomie und
-  Sportmanagement.
-- In Deutschland studieren rund 30.000 Menschen im Fachgebiet Sport.
-- 54 universiäre Einrichtungen zur Sportwissenschaft in Deutschland
-*****
-
-{{1-2}}
-*****
-> [!WARNING]💡 Sportwissenschaft entwickelte sich von der Leibeserziehung und Turnlehrerbildung über die Institutionalisierung an Hochschulen und die leistungsorientierte Forschung im Kalten Krieg hin zu einer interdisziplinären Wissenschaft von Bewegung, Sport und körperlicher Aktivität.
-*****
-
-{{2-3}}
-*****
-![Teildisziplinen](img/Sportwissenscahft_Teildisziplinen.jpg "Sportwissenschaftliche Teildisziplinen, erstellt mit KI")
-*****
 
 ## Mit Literatur arbeiten
 

@@ -379,7 +379,7 @@ Unter einer **Hypothese** versteht man eine allgemeingültige, wissenschaftliche
 > „In unserer Seminargruppe verbessert Sport immer die Konzentration.“
 
 
-### Sportwissenschaft?
+### Sportwissenschaft
 > Sportwissenschaft zielt darauf ab, mit Hilfe wissenschaftlicher Methoden „die differenzierten Phänomene von Sport, Bewegung und körperlicher Aktivität wahrzunehmen, zu beschreiben, zu analysieren und zu erklären sowie Orientierungen und Entscheidungshilfen für die Verbesserung der vielfältigen Praxis zu entwickeln" (Hottenrott et al, 2017, S. 288).
 
 

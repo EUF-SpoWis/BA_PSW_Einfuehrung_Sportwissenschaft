@@ -18,7 +18,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 | **Veranstaltung:**       | @config.lecture                                                                                 |
 | **Semester:**            | @config.semester                                                                                |
 | **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
-| **Inhalte:**             | `Entwicklung der Sportwissenschaft und exemplarische Zugangsweisen der ihrer Teildisziplinen`        |
+| **Inhalte:**             | `Entwicklung der Sportwissenschaft und exemplarische Zugangsweisen ihrer Teildisziplinen`        |
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/blob/main/03_Sportwissenschaft_exemplarisch.md      |
 | **Autoren:**             | @author                                                                                         |
 

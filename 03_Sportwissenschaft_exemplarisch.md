@@ -25,7 +25,6 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 > (c) Alle Rechte vorbehalten. 
 
 ## Einstieg
-
 <svg xmlns="http://www.w3.org/2000/svg"
      width="1200" height="480" viewBox="0 0 1200 480"
      role="img" aria-labelledby="title description">
@@ -70,7 +69,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
     <circle cx="27" cy="27" r="14" fill="#1f3a5f"/>
     <text class="number" x="27" y="32" fill="#ffffff">1</text>
 
-    <g class="icon" transform="translate(186 58)" aria-hidden="true">
+    <g class="icon" transform="translate(186 60)" aria-hidden="true">
       <circle cx="19" cy="-13" r="8"/>
       <path d="M-32 8-8-9 9 3 28 8"/>
       <path d="M-46 18Q-35 8-24 18T-2 18T20 18T42 18"/>
@@ -92,7 +91,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
     <circle cx="27" cy="27" r="14" fill="#1f3a5f"/>
     <text class="number" x="27" y="32" fill="#ffffff">2</text>
 
-    <g class="icon" transform="translate(186 58)" aria-hidden="true">
+    <g class="icon" transform="translate(186 60)" aria-hidden="true">
       <path d="M-27-18-12-4M27-18 12-4
                M-27 25-12 11M27 25 12 11"/>
       <circle cx="-34" cy="-25" r="10"/>
@@ -142,7 +141,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
     <circle cx="27" cy="27" r="14" fill="#2f6b4f"/>
     <text class="number" x="27" y="32" fill="#ffffff">4</text>
 
-    <g class="icon" transform="translate(186 58)" aria-hidden="true">
+    <g class="icon" transform="translate(186 60)" aria-hidden="true">
       <path d="M-31-30H31Q41-30 41-20V14
                Q41 24 31 24H-8L-26 38V24H-31
                Q-41 24-41 14V-20Q-41-30-31-30Z"/>
@@ -182,7 +181,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
       </g>
     </g>
 
-    <text class="question" x="186" y="147" fill="#89500e">
+    <text class="question" x="186" y="133" fill="#89500e">
       <tspan x="186">Wie entstehen</tspan>
       <tspan x="186" dy="29">Sportverletzungen?</tspan>
     </text>
@@ -196,18 +195,17 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
     <circle cx="27" cy="27" r="14" fill="#89500e"/>
     <text class="number" x="27" y="32" fill="#ffffff">6</text>
 
-    <g class="icon" transform="translate(186 57)" aria-hidden="true">
+    <g class="icon" transform="translate(186 60)" aria-hidden="true">
       <path d="M0 33-32 3
                C-58-23-20-47 0-21
                C20-47 58-23 32 3Z"/>
       <path d="M-26 1H-13L-5-12 5 14 14 1H27"/>
     </g>
 
-    <text class="question" x="186" y="128" fill="#89500e">
-      <tspan x="186">Welchen Beitrag können</tspan>
-      <tspan x="186" dy="27">Bewegungsprogramme zur</tspan>
-      <tspan x="186" dy="27">psychischen Gesundheit</tspan>
-      <tspan x="186" dy="27">leisten?</tspan>
+    <text class="question" x="186" y="133" fill="#89500e">
+      <tspan x="186">Wie können Bewegungsprogramme</tspan>
+      <tspan x="186" dy="29">die psychische Gesundheit</tspan>
+      <tspan x="186" dy="29">unterstützen?</tspan>
     </text>
   </g>
 
@@ -2855,3 +2853,4 @@ Woller, T., Ellsäßer, G., & Bühligen, U. (2014). Sportverletzungen im Kindes-
 Wulf, G., Höß, M., & Prinz, W. (1998). Instructions for motor learning: Differential effects of internal vs. external focus of attention. *Journal fo Motor Behaviour, 30*(3), 169–179. https://doi.org/10.1080/00222899809601334
 
 </div>
+

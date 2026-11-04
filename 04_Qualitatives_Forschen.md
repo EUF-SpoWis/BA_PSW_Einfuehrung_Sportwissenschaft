@@ -1038,7 +1038,8 @@ Das Interview verfolgt das Ziel einer (ökonomischen) Rekonstruktion der affekti
 ********
 
 ### Übung: Determinatnen physischer Aktivität 
-
+{{0}}
+**********
 >[!TIP]**Theoretischer Hintergrund**
 > Im Sinne des COM-B-Modells[^1] hängt regelmäßiges Sporttreiben im wesenltichen von drei Faktoren ab: den Fähigkeiten und Fertigkeiten, den Gelegenheiten sowie der Motivation (Michie et al., 2011).
 
@@ -1054,7 +1055,7 @@ Das Interview verfolgt das Ziel einer (ökonomischen) Rekonstruktion der affekti
 ```
 
 [^1] C = Capability; O = Opportunity; M = Motivation; B = Behavior 
-
+**********
 
 {{1}}
 **********

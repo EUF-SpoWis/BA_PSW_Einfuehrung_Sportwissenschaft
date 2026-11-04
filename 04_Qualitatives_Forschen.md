@@ -1253,7 +1253,7 @@ Die Vorschläge sind keine einzig richtigen Lösungen. Entscheidend sind die gew
 
 ## Hausaufgabe
 
-1. Zur Nachbreitung der Veranstaltung heute und zur Vorbereitung der nächsten Veranstaltung lies den folgenden Text (s. Moodle):Grimminger-Seidensticker, E., & Krieger, C. (2022). Forschungsmethodische Zugänge. In E. Balz, S. Reuker, V. Scheid, & R. Sygusch (Hrsg.), Sportpädagogik: Eine Grundlegung (S. 154–168). Kohlhammer.
+1. Zur Nachbreitung der Veranstaltung heute und zur Vorbereitung der nächsten Veranstaltung lies den folgenden Text (s. Moodle): Grimminger-Seidensticker, E., & Krieger, C. (2022). Forschungsmethodische Zugänge. In E. Balz, S. Reuker, V. Scheid, & R. Sygusch (Hrsg.), Sportpädagogik: Eine Grundlegung (S. 154–168). Kohlhammer.
 2. Arbeite die Aufgaben in dieser Veranstaltung nochmals durch. 
 
 ## Literatur

@@ -1062,13 +1062,11 @@ Das Interview verfolgt das Ziel einer (ökonomischen) Rekonstruktion der affekti
 **********
 >[!Note]Arbeitsauftrag
 >1. Dein wissenschaftliches Ziel ist es, das COM-B Modell in Bezug auf eine spezifische Population zu differenzierem: (A) Ärtzt:innen an Krankenhäusern; (B) Softwareentwickler:innen.
->2. Vorbereitung:
-> - Verteilt die beiden Rollen (A) und (B).
-> - Überlegt euch 2-3 Fragen, die ihr stellen wollt. Notiert sie schriftlich. 
-> - Lest die Rollenkarte eurer Rolle (A) oder (B). 
->3. Interview führen: 
-> - Führt das Interview und notiert euch wesentliche Aussagen. 
-> - Inwieweit lässt sich das Modell aus "C + O + M -> B" ausdifferenzieren? 
+>2. Vorbereitung: Verteilt und lest die beiden Rollen (A) und (B).
+>3. Interview: Führt gegenseitig das Interview und notiert euch wesentliche Aussagen eures Gegenüber zu den folgenden zwei Fragen: 
+> - Welche Rolle spielt Sport in deinem Leben. 
+> - Inwieweit gelingt es dir, Sport regelmäßig zu integrieren?
+>4. Inwieweit lässt sich das Modell aus "C + O + M -> B" ausdifferenzieren? 
 ************
 
 {{2}}

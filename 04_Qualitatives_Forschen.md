@@ -245,9 +245,10 @@ Mayring, 2002
 ## Beobachtung
 
 ### Einstieg
+
 <div style="width: 100%;">
   <iframe
-    src="https://www.youtube.com/embed/IGQmdoK_ZfY?start=4&amp;end=38"
+    src="https://www.youtube.com/embed/vJG698U2Mvo?start=4&amp;end=38"
     title="Video zum Arbeitsauftrag"
     style="display: block; width: 100%; aspect-ratio: 16 / 9; border: 0;"
     allow="fullscreen; picture-in-picture"

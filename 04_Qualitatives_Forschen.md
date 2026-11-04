@@ -326,30 +326,20 @@ Beobachtungen kommen dann zum Einsatz, wenn das reale Handeln im Zentrum steht u
 > - Ist das wirklich so?
 > - Wie lernen Menschen, nicht einfach zuzuschlagen, sondern kontrolliert zu boxen?
 
-{{1-9}}
+{{1-8}}
 ********
 > Wacquant, L. (2004). *Body & Soul: Notebooks of an Apprentice Boxer.* Oxford University Press.
 ********
 
-{{2-5}}
+{{2-4}}
 ********
 <div style="border: 2px solid #278f25; border-radius: 12px; padding: 0.8rem 1.3rem; margin: 0.8rem 0;">
   <b style="color: #278f25;">Hintergrund</b><br>
-  Wacquant untersucht den Trainingsalltag eines Boxclubs im Süden Chicagos. Im Mittelpunkt stehen nicht die spektakulären Kämpfe, sondern die alltäglichen Prozesse, durch die Menschen zu Boxern werden.
+  Wacquant untersucht den Trainingsalltag eines Boxclubs im Süden Chicagos.
 </div>
 ********
 
-
-{{3-5}}
-********
-<div style="border: 2px solid #254f8f; border-radius: 12px; padding: 0.8rem 1.3rem; margin: 0.8rem 0;">
-  <b style="color: #254f8f;">Theoretischer Blick: Habitus</b><br>
-  Boxerisches Können umfasst mehr als erlernte Schlagtechniken: Auch Wahrnehmung, Reaktionen und der Umgang mit dem eigenen Körper werden durch gemeinsame Praxis eingeübt und zunehmend selbstverständlich.
-</div>
-********
-
-
-{{4-5}}
+{{3-4}}
 ********
 <div style="border: 2px solid #8f2576; border-radius: 12px; padding: 0.8rem 1.3rem; margin: 0.8rem 0;">
   <b style="color: #8f2576;">Zentrale Fragestellung</b><br>
@@ -358,7 +348,7 @@ Beobachtungen kommen dann zum Einsatz, wenn das reale Handeln im Zentrum steht u
 ********
 
 
-{{5-6}}
+{{4-5}}
 ********
 **Methodisches Vorgehen** <br>
 
@@ -488,7 +478,7 @@ Beobachtungen kommen dann zum Einsatz, wenn das reale Handeln im Zentrum steht u
 ********
 
 
-{{6-7}}
+{{5-6}}
 ********
 **Befunde** <br>
 
@@ -582,7 +572,7 @@ Beobachtungen kommen dann zum Einsatz, wenn das reale Handeln im Zentrum steht u
 </svg>
 ********
 
-{{7-8}}
+{{6-7}}
 ********
 >[!TIP] Zentrale Schlussfolgerungen
 >* Boxerisches Können lässt sich nicht auf individuelle Härte oder Aggressivität reduzieren: Es entsteht durch soziale Anleitung, körperliche Übung und Selbstkontrolle.
@@ -633,6 +623,9 @@ Unter Klassenführung werden alle Maßnahmen einer Lehrkraft verstanden, die fü
 ## Interview
 
 ### Einstieg
+
+{{1-2}}
+********
 **Du triffst das Kind (14 Jahre) das erste Mal nach dem Training zum Interview. Welche Einstiegsfrage ist am geeignetsten?**
 
 - [( )] Findest du dein Training eigentlich gut? 
@@ -674,7 +667,10 @@ input == 2;
 <audio id="Audio-Platzhalter-1" src="" controls style="display:none;"></audio>
 
 <p id="Kommentar-Platzhalter-1" style="display:none; margin-top:14px; padding:14px 18px; border-radius:6px; border-left:5px solid #4a90a4; background-color:#f0f4f6; font-size:1.1em; line-height:1.5;"></p>
+*******
 
+{{2-3}}
+********
 **Du willst nun spezifische Situationen erfahren, in denen sich das Kind im Training kompetent fühlt. Welche Frage ist dafür am geeignetsten?**
 
 - [(x)] Gibt es Übungen, bei denen du denkst: Das kann ich richtig gut? 
@@ -716,7 +712,10 @@ input == 0;
 <audio id="Audio-Platzhalter-2" src="" controls style="display:none;"></audio>
 
 <p id="Kommentar-Platzhalter-2" style="display:none; margin-top:14px; padding:14px 18px; border-radius:6px; border-left:5px solid #4a90a4; background-color:#f0f4f6; font-size:1.1em; line-height:1.5;"></p>
+****
 
+{{3}}
+********
 **Du möchtest nun herausfinden, was spezielle Erfolgserlebnisse des Kindes im Training waren. Welche Frage liefert wohl das ergiebigste Material?**
 
 - [( )] "Hattest du in dieser Woche schon ein Erfolgserlebnis?"
@@ -761,6 +760,7 @@ input == 1;
 <audio id="Audio-Platzhalter-7" src="" controls style="display:none;"></audio>
 
 <p id="Kommentar-Platzhalter-7" style="display:none; margin-top:14px; padding:14px 18px; border-radius:6px; border-left:5px solid #4a90a4; background-color:#f0f4f6; font-size:1.1em; line-height:1.5;"></p>
+****
 
 ### Grundsätzliches
 <!-- class="animate__animated animate__fadeIn" -->
@@ -1039,7 +1039,7 @@ Das Interview verfolgt das Ziel einer (ökonomischen) Rekonstruktion der affekti
 ********
 
 ### Übung: Determinatnen physischer Aktivität 
-{{0}}
+{{0-1}}
 **********
 >[!TIP]**Theoretischer Hintergrund**
 > Im Sinne des COM-B-Modells[^1] hängt regelmäßiges Sporttreiben im wesenltichen von drei Faktoren ab: den Fähigkeiten und Fertigkeiten, den Gelegenheiten sowie der Motivation (Michie et al., 2011).
@@ -1068,7 +1068,7 @@ Das Interview verfolgt das Ziel einer (ökonomischen) Rekonstruktion der affekti
 > - Lest die Rollenkarte eurer Rolle (A) oder (B). 
 >3. Interview führen: 
 > - Führt das Interview und notiert euch wesentliche Aussagen. 
-> - Inwieweit lässt sich das Modell ausdifferenzieren? 
+> - Inwieweit lässt sich das Modell aus "C + O + M -> B" ausdifferenzieren? 
 ************
 
 {{2}}
@@ -1164,7 +1164,7 @@ Vereinfacht nach Kuckartz & Rädiker (2024), *Qualitative Inhaltsanalyse*.
 
 {{4-5}}
 *****
-**Dokumentiert eure Codierung**
+**Dokumentiert eure Codierung in der folgenden Form**
 
 | Aussage | Markierte Textstelle | Deduktive Hauptkategorie | Induktiv entwickelte Unterkategorie |
 | :--- | :--- | :--- | :--- |
@@ -1172,12 +1172,7 @@ Vereinfacht nach Kuckartz & Rädiker (2024), *Qualitative Inhaltsanalyse*.
 | A2 | … | … | … |
 *****
 
-{{5-6}}
-*****
-> Erkenntnisgewinn: Nicht nur feststellen, dass „Zeit“ oder „Motivation“ fehlen, sondern herausarbeiten, welche konkreten Bedingungen und Erfahrungen dahinterstehen.
-*****
-
-{{6}}
+{{4-5}}
 *****
 <details>
 <summary>Mögliche Zuordnungen – erst nach der eigenen Bearbeitung öffnen</summary>
@@ -1186,16 +1181,10 @@ Die Vorschläge sind keine einzig richtigen Lösungen. Entscheidend sind die gew
 
 | Aussage | Mögliche Textstelle | Deduktive Hauptkategorie | Mögliche induktive Unterkategorie |
 | :--- | :--- | :--- | :--- |
-| A1 | „… weiß ich oft erst kurzfristig, ob ich überhaupt aus der Klinik komme.“ | Opportunity | Unplanbare Dienstzeiten erschweren feste Sporttermine |
+| A1 | „… weiß ich oft erst kurzfristig, ob ich überhaupt aus der Klinik komme.“ | Opportunity | Unplanbare Dienstzeiten |
 | A1 | „… mir fehlt dabei das Zusammensein mit den anderen.“ | Motivation | Gemeinschaft als Anreiz für Sport |
-| A2 | „Ich bin dann so müde …“ | Capability | Vorübergehende Erschöpfung nach Nachtdiensten |
-| A2 | „… Bewegung bisher oft nur dann gelten lasse, wenn sie sich wie richtiges Training anfühlt.“ | Motivation | Hoher eigener Anspruch an eine gültige Bewegungseinheit |
-
-**Wo lohnt sich eine genauere Diskussion?**
-
-- A1: Die unplanbaren Dienstzeiten betreffen äußere Gelegenheiten. Die Bedeutung des Zusammenseins verweist dagegen auf einen persönlichen Bewegungsanreiz.
-- A2: Körperliche Müdigkeit und das fehlende Zutrauen, eine Runde durchzuhalten, lassen sich analytisch unterscheiden. Legt fest, welche Passagen ihr welcher Kategorie zuordnet und wann ihr mehrfach codiert.
-- Zusammenhang: Eine niedrigschwellige Aktivität wäre möglicherweise auch nach einem anstrengenden Dienst umsetzbar. Der Anspruch, dass nur „richtiges Training“ zählt, kann diese Alternative jedoch abwerten.
+| A2 | „Ich bin dann so müde …“ | Capability | Vorübergehende Erschöpfung |
+| A2 | „… Bewegung bisher oft nur dann gelten lasse, wenn sie sich wie richtiges Training anfühlt.“ | Motivation | Gültigkeit von Bewegungseinheit |
 
 </details>
 *****
@@ -1211,7 +1200,7 @@ Die Vorschläge sind keine einzig richtigen Lösungen. Entscheidend sind die gew
 [[?]] **Erklärung:** Sowohl qualitative als auch quantitative Forschung sind empirisch, da beide auf der Erhebung realer Daten basieren. Geisteswissenschaftliche Textanalyse oder Hermeneutik ohne Felderhebungen gelten als nicht-empirisch.
 </section>
 
----
+
 {{2}} <section>
 
 ### Wähle die passenden Grundsätze nach Mayring (2002) aus:
@@ -1222,7 +1211,7 @@ Die Vorschläge sind keine einzig richtigen Lösungen. Entscheidend sind die gew
 * Bei der Interpretation [[ fließt der subjektive Sinn der Forschenden mit ein | werden fiktive Hintergrundinformationen zur Ausgestaltung der Daten erstellt | (werden die Daten verstanden und ausschließlich anhand dieser Sinn interpretativ rekonstruiert) ]]
 </section>
 
----
+
 {{3}} <section>
 
 ### Welche Aussage unterscheidet eine qualitative Forschungsfrage von einer Interviewfrage?
@@ -1232,7 +1221,7 @@ Die Vorschläge sind keine einzig richtigen Lösungen. Entscheidend sind die gew
 [(X)] Die Forschungsfrage definiert das wissenschaftliche Erkenntnisziel; die Interviewfrage konkretisiert dieses für das Erhebungsinstrument.
 </section>
 
----
+
 {{4}} <section>
 
 ### Was ist das **primäre** Auswahlkriterium für den Einsatz einer bestimmten qualitativen Methode?
@@ -1243,7 +1232,7 @@ Die Vorschläge sind keine einzig richtigen Lösungen. Entscheidend sind die gew
 
 </section>
 
----
+
 {{5}} <section>
 
 ### Ordnung der Erhebungsmethoden und Einsatzszenarien:
@@ -1264,9 +1253,8 @@ Die Vorschläge sind keine einzig richtigen Lösungen. Entscheidend sind die gew
 
 ## Hausaufgabe
 
-Zur Nachbreitung der Veranstaltung heute und oOrbereitung der nächsten Veranstaltung lies den folgenden Text (s. Moodle):
-
-Grimminger-Seidensticker, E., & Krieger, C. (2022). Forschungsmethodische Zugänge. In E. Balz, S. Reuker, V. Scheid, & R. Sygusch (Hrsg.), Sportpädagogik: Eine Grundlegung (S. 154–168). Kohlhammer.
+1. Zur Nachbreitung der Veranstaltung heute und zur Vorbereitung der nächsten Veranstaltung lies den folgenden Text (s. Moodle):Grimminger-Seidensticker, E., & Krieger, C. (2022). Forschungsmethodische Zugänge. In E. Balz, S. Reuker, V. Scheid, & R. Sygusch (Hrsg.), Sportpädagogik: Eine Grundlegung (S. 154–168). Kohlhammer.
+2. Arbeite die Aufgaben in dieser Veranstaltung nochmals durch. 
 
 ## Literatur
 

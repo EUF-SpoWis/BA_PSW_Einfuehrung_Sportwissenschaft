@@ -1243,10 +1243,10 @@ Die Vorschläge sind keine einzig richtigen Lösungen. Entscheidend sind die gew
 
 ## Take-home Messages
 
-1. Qualitative Forschungs tellt neben der quantitativen Forschung und Mixed-Methods Forschung ein zentrales empirisches Forschungsparadigma dar. 
-2. Qualitative Forschung rekonstruiert, wie Menschen Situationen erleben, deuten und handelnd gestalten.
-3. Beobachten erschließt gelebte Praxis: Routinen und unausgesprochene Regeln werden im Handeln sichtbar. Beschreibungen und eigene Deutungen müssen dabei unterscheidbar bleiben.
-4. Interviewdaten entstehen im Gespräch: Fragen, Reaktionen und die Beziehung zum Gegenüber beeinflussen, was erzählt wird. Offenheit und gezieltes Nachfragen gehören zusammen.
+1. Qualitative Forschung stellt neben der quantitativen Forschung und Mixed-Methods Forschung ein zentrales empirisches Forschungsparadigma dar. 
+2. Qualitative Forschung rekonstruiert in offenen Herangehensweisen, wie Menschen Situationen erleben, deuten und handelnd gestalten.
+3. Erfolgreiche Beobachtung erfolgt entlang der Schritte "Fokussieren", "Protokollieren", "Details auswählen" und "Digtial sichern".
+4. Erfolgreiches Interviewen gelingt durch ein angenehmes Gesrpächsklima sowie eine guten Mischung aus Flexibilität und Fokussierung entlang zuvor durchdachter Interviewfragen. 
 5. Kategorien verbinden Theorie und Material: Deduktive Kategorien strukturieren die Analyse; induktive Ergänzungen machen neue Aspekte und Differenzierungen zugänglich.
 
 > Qualitativ forschen heißt: offen für Unerwartetes sein und zugleich systematisch und nachvollziehbar vorgehen.

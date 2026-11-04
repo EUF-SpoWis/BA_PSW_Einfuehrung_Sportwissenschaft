@@ -599,6 +599,8 @@ Beobachtungen kommen dann zum Einsatz, wenn das reale Handeln im Zentrum steht u
 Unter Klassenführung werden alle Maßnahmen einer Lehrkraft verstanden, die für einen reibungslosen Ablauf von Lehr-Lern-Prozessen sorgen und die aktive Lern- bzw. Bewegungszeit maximieren. Ziel ist es dabei, Störungen zu minimieren und eine aktive Beteiligung aller Schüler:innen am Lerngeschehen zu gewährleisten (s. etwa Helmke, 2022; Kounin, 2006; Kunter & Ewald, 2016).
 </div>
 <br>
+{{1}}
+****
 >[!Note]Arbeitsauftrag
 > 1. Beobachte die folgende Unterrichtssequenz und protokolliere das Gesehene.
 > 2. Inwieweit zeigt sich im Verhalten der Lehkraft eine erfolgreiche Klassenführung?
@@ -607,6 +609,7 @@ Unter Klassenführung werden alle Maßnahmen einer Lehrkraft verstanden, die fü
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
 	<iframe src="https://uni-flensburg.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=df06b644-e136-41aa-8bc8-b4f601517c83&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="In Panopto integrierter Videoplayer" aria-description="PSW4_Frisbee"></iframe>
 </div>
+****
 
 ### Herausforderungen
 

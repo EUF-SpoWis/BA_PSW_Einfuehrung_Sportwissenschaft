@@ -1055,6 +1055,9 @@ Das Interview verfolgt das Ziel einer (ökonomischen) Rekonstruktion der affekti
 
 [^1] C = Capability; O = Opportunity; M = Motivation; B = Behavior 
 
+
+{{1}}
+**********
 >[!Note]Arbeitsauftrag
 >1. Dein wissenschaftliches Ziel ist es, das COM-B Modell in Bezug auf eine spezifische Population zu differenzierem: (A) Ärtzt:innen an Krankenhäusern; (B) Softwareentwickler:innen.
 >2. Vorbereitung:
@@ -1064,7 +1067,10 @@ Das Interview verfolgt das Ziel einer (ökonomischen) Rekonstruktion der affekti
 >3. Interview führen: 
 > - Führt das Interview und notiert euch wesentliche Aussagen. 
 > - Inwieweit lässt sich das Modell ausdifferenzieren? 
+************
 
+{{2}}
+**********
 <details>
 <summary>Rollenkarte A: Ärzt:in im Krankenhaus</summary>
 
@@ -1086,6 +1092,7 @@ Du sagst zunächst: „Sport ist einfach nicht mein Ding.“ Wenn genauer nachge
 Antworte aus deiner Rolle und mit konkreten Alltagssituationen. Du möchtest nicht zum „Fitnessmenschen“ werden, kannst dir aber Bewegung vorstellen, die Spaß macht und zu deinem Alltag passt. Weitere passende Details darfst du erfinden.
 
 </details>
+*********
 
 ### Herausforderungen
 Beim Interviewen gilt es, zentrale Herausforderungen zu meistern. Im Wesentlichen können dabei die folgenden unterschieden werden:

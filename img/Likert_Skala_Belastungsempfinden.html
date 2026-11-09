@@ -1,0 +1,74 @@
+<div
+style="width: 100%;"
+onchange="
+const namen = ['laufscore1', 'laufscore2', 'laufscore3', 'laufscore4'];
+const antworten = namen.map(name => this.querySelector('input[name=' + name + ']:checked'));
+const ausgabe = this.querySelector('[data-ergebnis]');
+if (antworten.some(antwort => antwort === null)) {
+  ausgabe.textContent = 'Bitte beantworte alle vier Aussagen.';
+} else {
+  const werte = antworten.map(antwort => Number(antwort.value));
+  const item4Umgepolt = 3 - werte[3];
+  const mittelwert = (werte[0] + werte[1] + werte[2] + item4Umgepolt) / 4;
+  ausgabe.textContent = 'Dein Skalenwert: ' + mittelwert.toLocaleString('de-DE', {minimumFractionDigits: 2, maximumFractionDigits: 2}) + ' (Wertebereich: 0 bis 3).';
+}
+">
+<p>Inwieweit treffen die folgenden Aussagen auf dich zu? Bitte wähle pro Zeile eine Antwort.</p>
+<div style="overflow-x: auto;">
+<table style="display: table; width: 100%; min-width: 700px; table-layout: fixed; border-collapse: collapse; font-size: 0.9em; line-height: 1.4; text-align: center;">
+<colgroup>
+<col style="width: 52%;">
+<col style="width: 12%;">
+<col style="width: 12%;">
+<col style="width: 12%;">
+<col style="width: 12%;">
+</colgroup>
+<thead>
+<tr style="background: #f2f6fb;">
+<th scope="col" style="padding: 12px; text-align: left; white-space: normal;">Aussage</th>
+<th scope="col" style="padding: 10px 4px; white-space: normal;">trifft gar<br>nicht zu</th>
+<th scope="col" style="padding: 10px 4px; white-space: normal;">trifft eher<br>nicht zu</th>
+<th scope="col" style="padding: 10px 4px; white-space: normal;">trifft eher<br>zu</th>
+<th scope="col" style="padding: 10px 4px; white-space: normal;">trifft völlig<br>zu</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #d5dbe3;">
+<th scope="row" style="padding: 14px 12px; text-align: left; font-weight: normal; white-space: normal;">1. Der 12-Minuten-Lauf hat mir Spaß gemacht.</th>
+<td><input type="radio" name="laufscore1" value="0" aria-label="Aussage 1: trifft gar nicht zu"></td>
+<td><input type="radio" name="laufscore1" value="1" aria-label="Aussage 1: trifft eher nicht zu"></td>
+<td><input type="radio" name="laufscore1" value="2" aria-label="Aussage 1: trifft eher zu"></td>
+<td><input type="radio" name="laufscore1" value="3" aria-label="Aussage 1: trifft völlig zu"></td>
+</tr>
+<tr style="border-bottom: 1px solid #d5dbe3;">
+<th scope="row" style="padding: 14px 12px; text-align: left; font-weight: normal; white-space: normal;">2. Ich bin mit meiner Laufleistung zufrieden.</th>
+<td><input type="radio" name="laufscore2" value="0" aria-label="Aussage 2: trifft gar nicht zu"></td>
+<td><input type="radio" name="laufscore2" value="1" aria-label="Aussage 2: trifft eher nicht zu"></td>
+<td><input type="radio" name="laufscore2" value="2" aria-label="Aussage 2: trifft eher zu"></td>
+<td><input type="radio" name="laufscore2" value="3" aria-label="Aussage 2: trifft völlig zu"></td>
+</tr>
+<tr style="border-bottom: 1px solid #d5dbe3;">
+<th scope="row" style="padding: 14px 12px; text-align: left; font-weight: normal; white-space: normal;">3. Ich habe mich beim Lauf angestrengt.</th>
+<td><input type="radio" name="laufscore3" value="0" aria-label="Aussage 3: trifft gar nicht zu"></td>
+<td><input type="radio" name="laufscore3" value="1" aria-label="Aussage 3: trifft eher nicht zu"></td>
+<td><input type="radio" name="laufscore3" value="2" aria-label="Aussage 3: trifft eher zu"></td>
+<td><input type="radio" name="laufscore3" value="3" aria-label="Aussage 3: trifft völlig zu"></td>
+</tr>
+<tr style="border-bottom: 1px solid #d5dbe3;">
+<th scope="row" style="padding: 14px 12px; text-align: left; font-weight: normal; white-space: normal;">4. Ich habe mich beim Laufen unter Druck gefühlt.</th>
+<td><input type="radio" name="laufscore4" value="0" aria-label="Aussage 4: trifft gar nicht zu"></td>
+<td><input type="radio" name="laufscore4" value="1" aria-label="Aussage 4: trifft eher nicht zu"></td>
+<td><input type="radio" name="laufscore4" value="2" aria-label="Aussage 4: trifft eher zu"></td>
+<td><input type="radio" name="laufscore4" value="3" aria-label="Aussage 4: trifft völlig zu"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p
+data-ergebnis
+role="status"
+aria-live="polite"
+style="padding: 14px; margin-top: 16px; background: #f2f6fb; border-left: 4px solid #4e66bd; font-weight: bold;">
+Bitte beantworte alle vier Aussagen.
+</p>
+</div>

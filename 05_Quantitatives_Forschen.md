@@ -118,7 +118,7 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 ## Forschungskreislauf 
 
 <iframe
-  src="img/Forschungskreislauf.html"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Forschungskreislauf.html"
   title="Kreislauf quantitativer Forschung"
   width="100%"
   height="620"
@@ -140,7 +140,7 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 </div>
 
 <iframe
-  src="img/Forschungskreislauf.html"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Forschungskreislauf.html"
   title="Kreislauf quantitativer Forschung"
   width="100%"
   height="620"
@@ -185,7 +185,7 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 <div style="display: flow-root; border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 
 <img
-  src="img/Konzentration_Bewegung_Kinder.jpg"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Konzentration_Bewegung_Kinder.jpg"
   alt="Konzentration und Bewegung bei Kindern"
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
@@ -267,7 +267,7 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die Forsch
 <div style="display: flow-root; border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 
 <img
-  src="img/Konzentration_Bewegung_Kinder.jpg"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Konzentration_Bewegung_Kinder.jpg"
   alt="Konzentration und Bewegung bei Kindern"
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
@@ -297,7 +297,7 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die Forsch
 ## Untersuchung planen
 
 <iframe
-  src="img/Forschungskreislauf.html"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Forschungskreislauf.html"
   title="Kreislauf quantitativer Forschung"
   width="100%"
   height="620"
@@ -365,7 +365,7 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die Forsch
 <div style="display: flow-root; border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 
 <img
-  src="img/Konzentration_Bewegung_Kinder.jpg"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Konzentration_Bewegung_Kinder.jpg"
   alt="Konzentration und Bewegung bei Kindern"
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
@@ -440,7 +440,7 @@ Im Experiment lassen sich immer ein Zustand vorher, eine Änderungsphase (Treatm
 <div style="display: flow-root; border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 
 <img
-  src="img/Konzentration_Bewegung_Kinder.jpg"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Konzentration_Bewegung_Kinder.jpg"
   alt="Konzentration und Bewegung bei Kindern"
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
@@ -470,7 +470,7 @@ Im Experiment lassen sich immer ein Zustand vorher, eine Änderungsphase (Treatm
 <div style="display: flow-root; border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 
 <img
-  src="img/Konzentration_Bewegung_Kinder.jpg"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Konzentration_Bewegung_Kinder.jpg"
   alt="Konzentration und Bewegung bei Kindern"
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
@@ -491,7 +491,7 @@ Im Experiment lassen sich immer ein Zustand vorher, eine Änderungsphase (Treatm
 > **Testleiter:in**: Stoppe die Zeit. Bei einem Fehler rufe "Fehler" und lass die Farbe korrekt wiederholen.
 
 <iframe
-  src="img/stroop.html"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/stroop.html"
   title="Stroop-Test"
   width="100%"
   height="540"
@@ -502,7 +502,7 @@ Im Experiment lassen sich immer ein Zustand vorher, eine Änderungsphase (Treatm
 ## Datenerhebung
 
 <iframe
-  src="img/Forschungskreislauf.html"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Forschungskreislauf.html"
   title="Kreislauf quantitativer Forschung"
   width="100%"
   height="620"
@@ -960,7 +960,7 @@ In welchen Situationen wird gegen die Kinball-Regeln verstoßen? Mehrere Antwort
 ## Statistische Analyse
 
 <iframe
-  src="img/Forschungskreislauf.html"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Forschungskreislauf.html"
   title="Kreislauf quantitativer Forschung"
   width="100%"
   height="620"
@@ -1013,7 +1013,7 @@ In welchen Situationen wird gegen die Kinball-Regeln verstoßen? Mehrere Antwort
 <div style="display: flow-root; border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 
 <img
-  src="img/Konzentration_Bewegung_Kinder.jpg"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Konzentration_Bewegung_Kinder.jpg"
   alt="Konzentration und Bewegung bei Kindern"
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
@@ -1048,7 +1048,7 @@ Durch die Zeitmessung beim Stroop-Test liegt eine *Verhältnisskala* vor.
 </div>
 
 <iframe
-  src="widgets/stroop-widget.html"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/widgets/stroop-widget.html"
   title="Stroop-Test: simulierte Daten und interaktive Auswertung"
   style="display: block; width: 100%; height: 1250px; border: 0;"
   loading="lazy">
@@ -1071,7 +1071,7 @@ Durch die Zeitmessung beim Stroop-Test liegt eine *Verhältnisskala* vor.
 <div style="display: flow-root; border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 
 <img
-  src="img/Konzentration_Bewegung_Kinder.jpg"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Konzentration_Bewegung_Kinder.jpg"
   alt="Konzentration und Bewegung bei Kindern"
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
@@ -1117,7 +1117,7 @@ Immer dann, wenn eine Hypothese empirisch geprüft werden solll, müssen Messerg
 <div style="display: flow-root; border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 
 <img
-  src="img/Konzentration_Bewegung_Kinder.jpg"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Konzentration_Bewegung_Kinder.jpg"
   alt="Konzentration und Bewegung bei Kindern"
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
@@ -1174,7 +1174,7 @@ $$
 ### t-Rechner
 
 <iframe
-src="widgets/student-t-rechner.html"
+src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/widgets/student-t-rechner.html"
 title="Student-t-Test aus deskriptiven Kennwerten"
 style="display: block; width: 100%; height: 1300px; border: 0;"
 loading="lazy">

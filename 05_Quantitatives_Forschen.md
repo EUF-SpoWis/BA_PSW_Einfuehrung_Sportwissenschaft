@@ -30,6 +30,8 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 
 ## Motivierung
 
+{{0-1}}
+**********
 >[!WARNING]Aufgabe Stroop-Test
 > **Proband:in**: Benenne alle Farben der angezeigten Wörter der Reihe nach. <br>
 > **Testleiter:in**: Stoppe die Zeit. Bei einem Fehler rufe "Fehler" und lass die Farbe korrekt wiederholen.
@@ -41,14 +43,24 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
   height="540"
   style="display: block; border: none;">
 </iframe>
+**********
 
-## Fahrplan
-1. Grundlagen: Ziele und Merkmale
-2. Ausgangspunkt: Von der Forschungsfrage zur Hypothese
-3. Untersuchungsplanung: von der Hypothese zum Design
-4. Datenerhebung: vom Design zur Datenerhebung
-5. Statistische Analysen: von den Daten zur Analyse
-6. Befunde präsentieren: von den Befunden zur Publikation
+{{1}}
+**********
+<div style="border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
+<span style="font-size: 1.4em;">"Wer sich viel bewegt, kann sich auch besser konzentrieren!"</span>
+</div>
+
+![Konzentration_Bewegung_Kinder](img/Konzentration_Bewegung_Kinder.jpg "Bild erstellt mit KI")
+***********
+
+## Überblick
+1. Grundlagen: Ziele und Merkmale quantitativer Forschung
+2. Forschungskreislauf quantitativer Forschung
+    3. Ausgangslage: Forschungsfrage zur Hypothese
+    4. Untersuchung planen: von der Hypothese zum Design
+    5. Daten erheben: vom Design zur Datenerfassung
+    6. Statistische Analyse: von den Daten zur Analyse
 
 ## Grundlagen
 
@@ -125,14 +137,6 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
   style="border: none;"
 ></iframe>
 
-## Einstiegsbeispiel
-
-<div style="border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
-<span style="font-size: 1.4em;">"Wer sich viel bewegt, kann sich auch besser konzentrieren!"</span>
-</div>
-
-![Konzentration_Bewegung_Kinder](img/Konzentration_Bewegung_Kinder.jpg "Bild erstellt mit KI")
-
 ## Fragestellung und Hypothesen 
 
 --{{0}}--<div style="border-left: 6px solid #2e9e5b; background: rgba(46,158,91,0.12); border-radius: 8px; padding: 0.7rem 1.2rem;">
@@ -190,17 +194,18 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
 
-**"Wer sich viel bewegt, kann sich auch besser konzentrieren!"** <br>
+**"Wer sich viel bewegt, kann sich auch besser konzentrieren!"**
 
-**Ausgangspunkt** <br>
+**Ausgangsopunkt:**
 - Kognitiv-psychologisch: Anspruchsvolle Sportaktivitäten könnten durch wiederholte kognitive Anforderungen die Aufmerksamkeitskontrolle trainieren (Singh et al., 2025).
 - Regenerativ: Bewegung kann besseren Schlaf und damit günstigere Aufmerksamkeitsbedingungen unterstützen (Xie et al., 2024).
 - Emotionspsychologisch: Bewegung könnte durch weniger Stress und Grübeln gedankliche Ablenkungen reduzieren (White et al., 2024).
 
 **Präzision und Reduktion** <br>
-Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die Forschungsfrage: <br>
+Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die <br><br>
+**Forschungsfrage** <br>
 
-<span style="color: #00ab1aff">"Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?"</span>
+<span style="color: #00ab1aff; font-size: 1.2em"> **Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?**"</span>
 </div>
 *****
 
@@ -396,6 +401,11 @@ Ein Experiment ist ein planmäßig ausgelöster und wiederholbarer Vorgang, bei 
 <br>
 Im Experiment lassen sich immer ein Zustand vorher, eine Änderungsphase (Treatment) und ein Zustand nachher unterscheiden. </span>
 </div>
+
+<div style="text-align: right; font-size: 0.85em; opacity: 0.8;">
+📚
+s. dazu auch Shadish et al., 2002 </div>
+
 *****
 
 {{1-2}}
@@ -499,7 +509,7 @@ Im Experiment lassen sich immer ein Zustand vorher, eine Änderungsphase (Treatm
 </iframe>
 *****
 
-## Datenerhebung
+## Daten erheben
 
 <iframe
   src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/Forschungskreislauf.html"
@@ -653,7 +663,7 @@ Zähle Zeitschriften, Zeitungen und deine Schulbücher nicht mit.
 
 <div style="border-left: 6px solid #11b11fff; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 <span style="font-size: 1.0em;">
-"Eine Likert-Skala („likert scale“) ist eine psychometrische Skala, die aus mehreren (z. B. 10–20) Aussagen besteht, die alle dasselbe Merkmal messen und auf Ratingskalen hinsichtlich des Grades der Zustimmung einzuschätzen sind. [...] Der Skalenwert der Likert- Skala berechnet sich als Summen- oder Durchschnittsscore der einzelnen Ratings" ([Springer Lehrbuch Pssychologie](https://www.lehrbuch-psychologie.springernature.com/glossar/likert-skala-1). <br>
+"Eine Likert-Skala („likert scale“) ist eine psychometrische Skala, die aus mehreren (z. B. 10–20) Aussagen besteht, die alle dasselbe Merkmal messen und auf Ratingskalen hinsichtlich des Grades der Zustimmung einzuschätzen sind. [...] Der Skalenwert der Likert- Skala berechnet sich als Summen- oder Durchschnittsscore der einzelnen Ratings" ([Springer Lehrbuch Pssychologie](https://www.lehrbuch-psychologie.springernature.com/glossar/likert-skala-1)); s. auch Likert, 1932. <br>
 
 **Wichtige Begriffe**
 
@@ -1060,7 +1070,6 @@ Durch die Zeitmessung beim Stroop-Test liegt eine *Verhältnisskala* vor.
 *****
 <div style="border-left: 6px solid #11b11fff; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 <span style="font-size: 1.0em;"> Bei einer Entscheidung für oder gegen eine Hypothese können zwei Arten von Fehlern auftreten: <br>
-
 - α-Fehler: H0 wird fälschlicherweise verworfen - H1 fälschlicherweise angenommen. <br>
 - β-Fehler: H0 wird fälschlicherweise beibehalten - H1 fälschlicherweise abgelehnt.</span>
 </div>
@@ -1090,15 +1099,12 @@ Durch die Zeitmessung beim Stroop-Test liegt eine *Verhältnisskala* vor.
 
 {{2-3}}
 *****
-<div style="border-left: 6px solid #f40404ff; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
-<span style="font-size: 1.0em;"> **Signifikanzniveau und p-Wert** <br>
-
-- Vor der Auswertung wird ein Signifikanzniveau festgelegt, häufig α = 0,05.
-- α begrenzt das Risiko, eine tatsächlich gültige Nullhypothese fälschlicherweise zu verwerfen.
-- Aus den Daten wird der p-Wert berechnet. Je kleiner der p-Wert ist, desto ungewöhnlicher wäre unser Testergebnis, wenn es tatsächlich keinen Unterschied zwischen den Gruppen gäbe. Ein kleiner p-Wert spricht deshalb gegen
-die Nullhypothese.
-- Ist p < α, wird das Ergebnis als statistisch signifikant eingeordnet und die Nullhypothese verworfen.
-- Der p-Wert gibt nicht an, mit welcher Wahrscheinlichkeit eine Hypothese wahr oder falsch ist.
+>[!CAUTION] **Signifikanzniveau und p-Wert** <br>
+> - Vor der Auswertung wird ein Signifikanzniveau festgelegt, häufig α = 0,05. <br>
+> - α begrenzt das Risiko, eine tatsächlich gültige Nullhypothese fälschlicherweise zu verwerfen. <br>
+> - Aus den Daten wird der p-Wert berechnet. Je kleiner der p-Wert ist, desto ungewöhnlicher wäre unser Testergebnis,denn es tatsächlich keinen Unterschied zwischen den Gruppen gäbe. Ein kleiner p-Wert spricht deshalb gegen die Nullhypothese. <br>
+> - Ist p < α, wird das Ergebnis als statistisch signifikant eingeordnet und die Nullhypothese verworfen. <br>
+> - Der p-Wert gibt nicht an, mit welcher Wahrscheinlichkeit eine Hypothese wahr oder falsch ist.</span>
 *****
 
 ### Inferenzstatistische Prüfung
@@ -1316,18 +1322,27 @@ Wiederholte Messung derselben Personen über mehrere Zeitpunkte (z. B. Prä-Post
 
 </details>
 
-**Frage 10:** Du vergleichst zwei bereits bestehende Schulklassen, eine läuft mit Musik, die andere ohne. Die Kinder wurden nicht zufällig zugeteilt. Welches Design ist das?
+**Frage 10:** Zwei bestehende Schulklassen nehmen an einer
+sechswöchigen Untersuchung teil. Eine Klasse erhält eine tägliche
+Sportstunde, die andere nur den regulären Sportunterricht.
+Die Klassen werden den Bedingungen nicht zufällig zugeteilt.
+Anschließend bearbeiten beide Klassen den Stroop-Test.
+Welches Design liegt vor?
 
-- [( )] Experiment
-- [(X)] Quasi-Experiment
-- [( )] Nicht-Experiment / Korrelative Studie
-
-[[?]] Wird ein Faktor manipuliert? Gibt es eine zufällige Zuteilung?
+- [( )] Experiment mit zufälliger Gruppenzuteilung.
+- [(X)] Quasi-Experiment.
+- [( )] Korrelative Studie ohne Intervention.
 
 <details>
-<summary><b>👉 Erklärung</b></summary>
+<summary><b>Erklärung</b></summary>
 
-Ein Faktor wird manipuliert bzw. Gruppen werden verglichen, aber ohne Randomisierung. Das ist ein Quasi-Experiment.
+Es wird gezielt eine Intervention durchgeführt: Eine Klasse
+erhält zusätzliche Sportstunden. Die Zuteilung zu den Bedingungen
+erfolgt jedoch nicht zufällig. Deshalb liegt ein Quasi-Experiment vor.
+
+Die Klassen können sich bereits vor der Intervention unterscheiden.
+Ein späterer Unterschied im Stroop-Test lässt sich daher nicht
+ohne Weiteres allein auf die zusätzlichen Sportstunden zurückführen.
 
 </details>
 
@@ -1377,47 +1392,53 @@ Die Komplexität wird schon vor der Erhebung reduziert, nicht erst bei der Analy
 
 **Frage 14:** Welche Forschungsfrage ist am präzisesten formuliert?
 
-- [( )] Ist Musik gut für den Sport?
-- [( )] Wie wirkt sich Musik irgendwie auf Menschen aus?
-- [(X)] Welchen Einfluss hat Rockmusik mit 140 BPM auf die Ausdauerleistung von Sportstudierenden?
-- [( )] Warum hören manche Menschen gerne Musik?
-
-[[?]] Aus der Frage sollten sich direkt messbare Variablen und Hypothesen ableiten lassen.
+- [( )] Ist Sport gut für Kinder?
+- [( )] Wie hängen Bewegung und Denken irgendwie zusammen?
+- [(X)] Unterscheiden sich die Stroop-Bearbeitungszeiten von Kindern der Klassenstufen 5 bis 7 nach sechs Wochen mit täglicher Sportstunde von denen einer Vergleichsgruppe ohne tägliche Sportstunde?
+- [( )] Warum bewegen sich manche Kinder gern?
 
 <details>
-<summary><b>👉 Erklärung</b></summary>
+<summary><b>Erklärung</b></summary>
 
-Die dritte Frage benennt Einflussfaktor (Rockmusik, 140 BPM), Variable (Ausdauerleistung) und Zielgruppe (Sportstudierende).
+Die dritte Frage benennt die Zielgruppe, die beiden Bedingungen,den Zeitraum und die Messvariable.
+
+„Konzentration“ beziehungsweise „Aufmerksamkeitskontrolle“ wird für diese Untersuchung durch die Bearbeitungszeit im Stroop-Test
+messbar gemacht.
 
 </details>
 
-**Hypothesen**
+**Frage 15:** Welche Aussage ist eine passende Nullhypothese (H0)
+zum Vergleich der Stroop-Bearbeitungszeiten?
 
-**Frage 15:** Welche Aussage ist eine passende Nullhypothese (H0) zur Forschungsfrage nach dem Einfluss von Musik auf die gelaufene Distanz?
-
-- [(X)] Musik hat keinen Einfluss auf die gelaufene Distanz.
-- [( )] Mit Musik laufen Sportstudierende weiter als ohne.
-- [( )] Musik verbessert die Ausdauerleistung deutlich.
-- [( )] Ohne Musik laufen Sportstudierende weiter als mit.
+- [(X)] Die Populationsmittelwerte der Stroop-Bearbeitungszeit sind in beiden Bedingungen gleich.
+- [( )] Kinder mit täglicher Sportstunde bearbeiten den Stroop-Test im Mittel schneller.
+- [( )] Kinder ohne tägliche Sportstunde bearbeiten den Stroop-Test im Mittel schneller.
+- [( )] Die Populationsmittelwerte der Stroop-Bearbeitungszeit unterscheiden sich zwischen den Bedingungen.
 
 <details>
-<summary><b>👉 Erklärung</b></summary>
+<summary><b>Erklärung</b></summary>
 
-Die H0 geht davon aus, dass es keinen Effekt, keinen Unterschied oder keinen Zusammenhang gibt. Alle anderen Aussagen sind Alternativhypothesen.
+Die Nullhypothese nimmt an, dass sich die Populationsmittelwerte der beiden Bedingungen nicht unterscheiden.
+
+Die Mittelwerte der untersuchten Stichproben können trotzdem voneinander abweichen. Der statistische Test prüft, wie die beobachtete Abweichung unter der Nullhypothese und den Testannahmen einzuordnen ist.
 
 </details>
 
-**Frage 16:** "Mit Musik laufen Sportstudierende weiter als ohne." Was für eine Hypothese ist das?
+**Frage 16:** „Kinder mit täglicher Sportstunde benötigen im Stroop-Test im Mittel weniger Zeit als Kinder ohne tägliche Sportstunde.“ Was für eine Hypothese ist das?
 
-- [(X)] Unterschiedshypothese
-- [( )] Veränderungshyothese
-- [( )] Zusammenhangshypothese
-- [( )] Nullhypothese
-
-[[?]] Die Aussage sagt voraus, dass es Unterschiede gibt.
+- [(X)] Unterschiedshypothese.
+- [( )] Veränderungshypothese.
+- [( )] Zusammenhangshypothese.
+- [( )] Nullhypothese.
 
 <details>
-<summary><b>👉 Erklärung</b></summary>
+<summary><b>Erklärung</b></summary>
+
+Die Aussage vergleicht zwei Gruppen und sagt einen Unterschied ihrer mittleren Bearbeitungszeiten voraus.
+
+Eine Veränderungshypothese würde dagegen eine Veränderung über die Zeit beschreiben, beispielsweise zwischen einer Messung vor und einer Messung nach der Intervention.
+
+</details>
 
 Es wird ein Unterschied zwischen zwei Bedingungen vorhergesagt. Das ist eine Unterschiedshypothese.
 
@@ -1615,7 +1636,7 @@ Die Genres haben keine natürliche Reihenfolge. Es handelt sich um reine Kategor
 
 </details>
 
-**Frage 2:** Auf welchem Skalenniveau liegt die *gelaufene Strecke in Metern*?
+**Frage 2:** Auf welchem Skalenniveau liegt die Variable *gelaufene Strecke in Metern*?
 
 - [( )] nominal
 - [( )] ordinal
@@ -1792,19 +1813,33 @@ Stichprobe oder stark streuenden Daten unentdeckt bleiben.
 ## Literatur
 <div style="padding-left: 2em; text-indent: -2em;">
 
+Bös, K., Schlenker, L., Büsch, D., Lämmle, L., Müller, H., Oberger, J., Seidel, I., & Tittlbach, S. (2009). Deutscher Motorik-Test 6–18 (DMT 6–18). Czwalina.
+
 Borg, G. A. V. (1982). Psychophysical bases of perceived exertion. <i>Medicine & Science in Sports & Exercise, 14</i>(5), 377–381.
+
+Cooper, K. H. (1968). A means of assessing maximal oxygen intake: Correlation between field and treadmill testing. JAMA, 203(3), 201–204. https://doi.org/10.1001/jama.1968.03140030033008
 
 Döring, N. & Bortz, J. (2016). <i>Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften</i> (5. Aufl.). Springer.
 
 Eid, M., Gollwitzer, M. & Schmitt, M. (2017). <i>Statistik und Forschungsmethoden</i> (5. Aufl.). Beltz.
 
+Léger, L. A., Mercier, D., Gadoury, C., & Lambert, J. (1988). The multistage 20 metre shuttle run test for aerobic fitness. Journal of Sports Sciences, 6(2), 93–101. https://doi.org/10.1080/02640418808729800
+
 Likert, R. (1932). A technique for the measurement of attitudes. <i>Archives of Psychology, 22</i>(140), 1–55.
+
+Likert-Skala. (o. D.). Lehrbuch Psychologie.
+https://www.lehrbuch-psychologie.springernature.com/glossar/likert-skala-1
 
 Moosbrugger, H. & Kelava, A. (Hrsg.). (2020). <i>Testtheorie und Fragebogenkonstruktion</i> (3. Aufl.). Springer. DOI: 10.1007/978-3-662-61532-4
 
 Shadish, W. R., Cook, T. D. & Campbell, D. T. (2002). <i>Experimental and quasi-experimental designs for generalized causal inference</i>. Houghton Mifflin.
 
-Stevens, S. S. (1946). On the theory of scales of measurement. <i>Science, 103</i>(2684), 677–680. DOI: 10.1126/science.103.2684.677
+Stevens, S. S. (1946). On the theory of scales of measurement. <i>Science, 103</i>(2684), 677–680. https://doi.org/10.1126/science.103.2684.677
 
-Terry, P. C., Karageorghis, C. I., Curran, M. L., Martin, O. V. & Parsons-Smith, R. L. (2020). Effects of music in exercise and sport: A meta-analytic review. <i>Psychological Bulletin, 146</i>(2), 91–117. DOI:/10.1037/bul0000216
+Singh, B., Bennett, H., Miatke, A., Dumuid, D., Curtis, R., Ferguson, T., Brinsley, J., Szeto, K., Petersen, J. M., Gough, C., Eglitis, E., Simpson, C. E. M., Ekegren, C. L., Smith, A. E., Erickson, K. I., & Maher, C. (2025). Effectiveness of exercise for improving cognition, memory and executive function: A systematic umbrella review and meta-meta-analysis. *British Journal of Sports Medicine, 59*(12), 866–876. https://doi.org/10.1136/bjsports-2024-108589
+
+White, R. L., Vella, S., Biddle, S., Sutcliffe, J., Guagliano, J. M., Uddin, R., Burgin, A., Apostolopoulos, M., Nguyen, T., Young, C., Taylor, N., Lilley, S., & Teychenne, M. (2024). Physical activity and mental health: A systematic review and best-evidence synthesis of mediation and moderation studies. *International Journal of Behavioral Nutrition and Physical Activity, 21*, Article 134. https://doi.org/10.1186/s12966-024-01676-6
+
+Xie, W., Lu, D., Liu, S., Li, J., & Li, R. (2024). The optimal exercise intervention for sleep quality in adults: A systematic review and network meta-analysis. *Preventive Medicine, 183*, Article 107955. https://doi.org/10.1016/j.ypmed.2024.107955
+
 </div>

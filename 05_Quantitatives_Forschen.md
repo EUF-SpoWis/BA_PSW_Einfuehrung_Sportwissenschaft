@@ -35,11 +35,11 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 > **Testleiter:in**: Stoppe die Zeit. Bei einem Fehler rufe "Fehler" und lass die Farbe korrekt wiederholen.
 
 <iframe
-  src="img/stroop.html"
+  src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/stroop.html"
   title="Stroop-Test"
   width="100%"
   height="540"
-  style="border: none;">
+  style="display: block; border: none;">
 </iframe>
 
 ## Fahrplan

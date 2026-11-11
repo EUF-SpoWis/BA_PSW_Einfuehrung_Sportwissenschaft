@@ -199,7 +199,7 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 
 **"Wer sich viel bewegt, kann sich auch besser konzentrieren!"**
 
-**Ausgangsopunkt:**
+**Ausgangspunkt:**
 - Kognitiv-psychologisch: Anspruchsvolle Sportaktivitäten könnten durch wiederholte kognitive Anforderungen die Aufmerksamkeitskontrolle trainieren (Singh et al., 2025).
 - Regenerativ: Bewegung kann besseren Schlaf und damit günstigere Aufmerksamkeitsbedingungen unterstützen (Xie et al., 2024).
 - Emotionspsychologisch: Bewegung könnte durch weniger Stress und Grübeln gedankliche Ablenkungen reduzieren (White et al., 2024).
@@ -370,7 +370,7 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die... <br
 ******************************
 > [!IMPORTANT] 🎯 **Was?**
 > Was genau wird untersucht und ggf. manipuliert? <br> 
-> z. B. "Vor und nach einer Intervention wird das **Belastungsempfinden** gemessen. Während der Intervention hören die Teilnehmer:innen unterschiedliche Musik. 
+> z. B. "Vor und nach einer Intervention wird das **Belastungsempfinden** gemessen. Während der Intervention hören die Teilnehmer:innen unterschiedliche Musik." 
 
 <div style="text-align: right; font-size: 0.85em; opacity: 0.8;">
 📚 Zum Nachlesen: Döring & Bortz (2016)
@@ -396,7 +396,7 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die... <br
 1. Quasi-experimentelle Studie mit einem Messzeitpunkt nach einer Intervention [Wie, Wann ✓]
 2. Schüler*innen der Klassenstufen 5, 6 und 7 [Wer ✓]
 3. Messung der Aufmerksamkeitskontrolle [Was ✓]
-3. 50 % der Kinder erhalten "täglichen Sportstunde"; 50 % erhalten "nur" regulären Sportunterricht [Was ✓]
+4. 50 % der Kinder erhalten "täglichen Sportstunde"; 50 % erhalten "nur" regulären Sportunterricht [Was ✓]
 
 </div>
 *****
@@ -604,7 +604,7 @@ s. dazu auch Shadish et al., 2002 </div>
 <div style="font-size: 2em; text-align: center;">🎯</div>
 <div style="text-align: center; font-size: 1.1em;"><b>Validität</b></div>
 <div style="text-align: center; font-style: italic; color: #4a5568; margin: 6px 0 8px 0;">„Misst das Verfahren wirklich das, was es messen soll?“</div>
-<div style="font-size: 0.9em;">Das Verfahren hällt einer inhaltlichen Prüfung (z. B. anhand der Literaturlage ider durch Expert:innen) stand.</div>
+<div style="font-size: 0.9em;">Das Verfahren hällt einer inhaltlichen Prüfung (z. B. anhand der Literaturlage oder durch Expert:innen) stand.</div>
 </div>
 
 </div>
@@ -642,9 +642,9 @@ s. dazu auch Shadish et al., 2002 </div>
 *****
 **In welche Klasse gehst du?**
 
-- [ ] 6. Klasse
-- [ ] 7. Klasse
-- [ ] 8. Klasse
+- [ ]   6. Klasse
+- [ ]   7. Klasse
+- [ ]   8. Klasse
 *****
 
 {{3-4}}
@@ -736,7 +736,7 @@ if (antworten.some(antwort => antwort === null)) {
 <th scope="col" style="padding: 10px 4px; white-space: normal;">trifft <br>nicht zu</th>
 <th scope="col" style="padding: 10px 4px; white-space: normal;">trifft eher<br>nicht zu</th>
 <th scope="col" style="padding: 10px 4px; white-space: normal;">trifft eher<br>zu</th>
-<th scope="col" style="padding: 10px 4px; white-space: normal;">trifft völlig<br>zu</th>
+<th scope="col" style="padding: 10px 4px; white-space: normal;">trifft <br>zu</th>
 </tr>
 </thead>
 <tbody>
@@ -1061,7 +1061,8 @@ In welchen Situationen wird gegen die Kinball-Regeln verstoßen? Mehrere Antwort
 
 <span style="color: #00ab1aff; font-size: 1em"> **Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?**"</span>
 
-Durch die Zeitmessung beim Stroop-Test liegt eine *Verhältnisskala* vor.
+Welches Skalenniveau liegt vor?
+
 </div>
 *****
 
@@ -1190,10 +1191,14 @@ Um Unterschiede bewerten zu können, reichen die Informationen allein über den 
 Wir brauchen also weitere Informationen 
 - Wie viele Personen haben an der Studie teilgenommen?
 - Wie groß ist die Streuung der Ergebnisse um den Mittelwert innerhalb der Gruppen?
+</span>
+</div>
 *****
 
 {{3-4}}
 *****
+<div style="border-left: 6px solid #11b11fff; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
+<span style="font-size: 1.0em;">
 Mit diesen Informationen können wir den standardisierten Mittelwertunterschied "**t**" berechnen. Je nachdem wir hoch t ausfällt, lässt sich der Unterschied als "statistisch signifikant" oder "statistisch nicht signifikant" einordnen. 
 
 $$

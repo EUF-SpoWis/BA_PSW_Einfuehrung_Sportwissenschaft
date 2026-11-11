@@ -1,7 +1,7 @@
 <!--
 author: Tim Heemsoth, Swantje Brandt
 email: tim.heemsoth@uni-flensburg.de
-version: 0.0.1
+version: 1.0.0
 language: de
 narrator: Deutsch Female
 
@@ -356,7 +356,7 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die... <br
 >| :-- | :-- |  :-- |
 >|Experiment| Personen werden zufällig Gruppen zugeordnet, die unterschiedliche Treatments erhalten.| Personen werden per Los in die Gruppen A oder B zugeordnet, wo sie nach Programm A oder Programm B trainieren.|
 >|Quasi-Experiment| Personen befinden sich in Gruppen, die unterschiedliche Treatments erhalten. Die Gruppenzuordnung ist nicht streng zufällig. | Wie beim Experiment, die Personen werden aber Klassenweise (z. B. in Schulklassen und somit nicht randomisiert) einem Trainingsprogramm zugeordnet.|
->|Koorelative Studie |Es gibt keine Intervention, es werden nur bestehende Merkmale gemessen.| Es werden Alter und Interesse gemessen, um den Zusammenhang dieser Variablen zu bestimmen.|
+>|Korrelative Studie |Es gibt keine Intervention, es werden nur bestehende Merkmale gemessen.| Es werden Alter und Interesse gemessen, um den Zusammenhang dieser Variablen zu bestimmen.|
 ******************************
 
 {{3-4}}

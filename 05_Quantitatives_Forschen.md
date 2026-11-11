@@ -205,7 +205,7 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 - Emotionspsychologisch: Bewegung könnte durch weniger Stress und Grübeln gedankliche Ablenkungen reduzieren (White et al., 2024).
 
 **Präzision und Reduktion** <br>
-Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die <br><br>
+Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die... <br><br>
 
 </div>
 *****
@@ -287,8 +287,10 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die <br><b
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
 
-**"Wer sich viel bewegt, kann sich auch besser konzentrieren!"** <br>
+**Forschungsfrage**
 
+<span style="color: #00ab1aff; font-size: 1.5em"> **Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?**"</span>
+</div>
 **Hypothese (H1)** <br> Die Aufmerksamkeitskontrollle von Kindern *mit* regelmäßiger sportlicher Aktivität  unterscheidet sich von der Aufmerksamkeitskontrollle von Kindern *ohne* regelmäßige sportliche Aktivität.<br>
 
 **Nullhypothese (H0)** <br> Die Aufmerksamkeitskontrollle von Kindern *mit* regelmäßiger sportlicher Aktivität  unterscheidet sich *nicht* von der Aufmerksamkeitskontrollle von Kindern *ohne* regelmäßige sportliche Aktivität.

@@ -289,8 +289,8 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die... <br
 
 **Forschungsfrage**
 
-<span style="color: #00ab1aff; font-size: 1.5em"> **Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?**"</span>
-</div>
+<span style="color: #00ab1aff; font-size: 1em"> **Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?**"</span>
+
 **Hypothese (H1)** <br> Die Aufmerksamkeitskontrollle von Kindern *mit* regelmäßiger sportlicher Aktivität  unterscheidet sich von der Aufmerksamkeitskontrollle von Kindern *ohne* regelmäßige sportliche Aktivität.<br>
 
 **Nullhypothese (H0)** <br> Die Aufmerksamkeitskontrollle von Kindern *mit* regelmäßiger sportlicher Aktivität  unterscheidet sich *nicht* von der Aufmerksamkeitskontrollle von Kindern *ohne* regelmäßige sportliche Aktivität.
@@ -681,7 +681,7 @@ Zähle Zeitschriften, Zeitungen und deine Schulbücher nicht mit.
 
 <div style="border-left: 6px solid #11b11fff; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 <span style="font-size: 1.0em;">
-"Eine Likert-Skala („likert scale“) ist eine psychometrische Skala, die aus mehreren (z. B. 10–20) Aussagen besteht, die alle dasselbe Merkmal messen und auf Ratingskalen hinsichtlich des Grades der Zustimmung einzuschätzen sind. [...] Der Skalenwert der Likert- Skala berechnet sich als Summen- oder Durchschnittsscore der einzelnen Ratings" ([Springer Lehrbuch Pssychologie](https://www.lehrbuch-psychologie.springernature.com/glossar/likert-skala-1)); s. auch Likert, 1932. <br>
+"Eine Likert-Skala („likert scale“) ist eine psychometrische Skala, die aus mehreren (z. B. 10–20) Aussagen besteht, die alle dasselbe Merkmal messen und auf Ratingskalen hinsichtlich des Grades der Zustimmung einzuschätzen sind. [...] Der Skalenwert der Likert- Skala berechnet sich als Summen- oder Durchschnittsscore der einzelnen Ratings" ([Springer Lehrbuch Psychologie](https://www.lehrbuch-psychologie.springernature.com/glossar/likert-skala-1)); s. auch Likert, 1932). <br>
 
 **Wichtige Begriffe**
 
@@ -703,7 +703,7 @@ Zähle Zeitschriften, Zeitungen und deine Schulbücher nicht mit.
 *****
 **Beispiel einer Likert Skala zum Belastungsempfinden**
 
-Die Läufer:innen füllen nach dem 12-Minuten-Lauf vier Aussagen aus. Pro Zeile wird **eine** Stufe von 0 (trifft gar nicht zu) bis 3 (trifft zu) angekreuzt.
+Die Läufer:innen füllen nach dem 12-Minuten-Lauf vier Aussagen aus. Pro Zeile wird **eine** Stufe von 0 (trifft nicht zu) bis 3 (trifft zu) angekreuzt.
 
 <div
 style="width: 100%;"
@@ -733,7 +733,7 @@ if (antworten.some(antwort => antwort === null)) {
 <thead>
 <tr style="background: #f2f6fb;">
 <th scope="col" style="padding: 12px; text-align: left; white-space: normal;">Aussage</th>
-<th scope="col" style="padding: 10px 4px; white-space: normal;">trifft gar<br>nicht zu</th>
+<th scope="col" style="padding: 10px 4px; white-space: normal;">trifft <br>nicht zu</th>
 <th scope="col" style="padding: 10px 4px; white-space: normal;">trifft eher<br>nicht zu</th>
 <th scope="col" style="padding: 10px 4px; white-space: normal;">trifft eher<br>zu</th>
 <th scope="col" style="padding: 10px 4px; white-space: normal;">trifft völlig<br>zu</th>
@@ -804,7 +804,9 @@ Bitte beantworte alle vier Aussagen.
 <div style="height: 15px;"></div>
 
 >[!WARNING] Die Borg-Skala 
->Sie erfasst direkt nach dem Lauf mit **einer einzigen Zahl**, wie anstrengend die Belastung empfunden wurde. Die Werte 6 bis 20 sind so gewählt, dass die Zahl mal 10 ungefähr dem Puls eines gesunden Erwachsenen entspricht (13 ➜ ca. 130 Schläge pro Minute). (Borg, 1982) 
+>Sie erfasst direkt nach dem Lauf mit **einer einzigen Zahl**, wie anstrengend die Belastung empfunden wurde. <br
+> Die Werte 6 bis 20 sind so gewählt, dass die Zahl mal 10 ungefähr dem Puls eines gesunden Erwachsenen entspricht. <br>
+> z. B. 13 ➜ ca. 130 Schläge pro Minute (Borg, 1982) 
 
 <div style="background:#ffffff; border:1px solid #cbd5e1; border-radius:12px; padding:10px; max-width:460px; color:#1f2933;">
 <div style="background:#f77b7b; border:1px solid #ffffff; border-radius:8px; padding:4px 10px; margin:2px 0; color:#1f2933;"><b style="display:inline-block; min-width:2em;">20</b> maximale Anstrengung</div>
@@ -845,14 +847,22 @@ In welchen Situationen wird gegen die Kinball-Regeln verstoßen? Mehrere Antwort
 
 **Was macht eine Beobachtung „quantitativ“?** 
  
+ {{0-3}}
+*****
 >[!TIP]📑 Kategorien
 >Vorab ist eindeutig festgelegt, welches Verhalten erfasst wird.<br>
 >z. B. „Positives Feedback“ = Es wird notiert immer dann, wenn ein:e Trainer:in positive Rückmeldungen formuliert.
+*****
 
+{{1-3}}
+*****
 >[!NOTE]⏲️ Zeitplan
 > Es ist festgelegt, wann und wie lange beobachtet wird.<br>
 > z. B. die Beobachtung erfolgt im Rahmen einer Trainingseinheit im Hockey
+*****
 
+{{2-3}}
+*****
 >[!WARNING]🔢 Zahlen
 >Das Verhalten wird gezählt oder gemessen und statistisch verglichen.<br>
 >z. B. Anzahl des Lobes pro Training
@@ -860,6 +870,7 @@ In welchen Situationen wird gegen die Kinball-Regeln verstoßen? Mehrere Antwort
 <div style="text-align: right; font-size: 0.85em; opacity: 0.8;">
 📚 Zum Nachlesen: Döring & Bortz (2016)
 </div>
+*****
 
 ### Beispiel: Leistungstests
 
@@ -1002,7 +1013,7 @@ In welchen Situationen wird gegen die Kinball-Regeln verstoßen? Mehrere Antwort
 | Skalenniveau |  Rangordnung | Gleiche Abstände | Natürlicher Nullpunkt | Sinnvolle Kennwerte | Beispiel |
 | :--- | :---: | :---: | :---: | :--- | :--- |
 | Nominalskala | ✗ | ✗ | ✗ | Häufigkeiten, Modus | Blutgruppe |
-| Ordinalskala | ✓ | ✗ | ✗ | Median, Quartile, Modus | Schulnote |
+| Ordinalskala | ✓ | ✗ | ✗ | Median, Quartile, Modus | Platzierung beim Sport |
 | Intervallskala | ✓ | ✓ | ✗ | Mittelwert, Standardabweichung | Temperatur in °C |
 | Verhältnisskala | ✓ | ✓ | ✓ | Mittelwert, Standardabweichung | Masse eines Pakets in kg |
 
@@ -1074,24 +1085,32 @@ Durch die Zeitmessung beim Stroop-Test liegt eine *Verhältnisskala* vor.
 
 ### Beispiel: Bewegung und Aufmerksamkeitskontrolle
 
+{{0-1}}
+*****
 <div style="border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 **Forschungsfrage**
 
 <span style="color: #00ab1aff; font-size: 1.5em"> **Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?**"</span>
-</div>
 
+ -> Wir betrachten exemplarische Daten.
+</div>
+*****
+
+{{1}}
+*****
 <iframe
   src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/widgets/stroop-widget.html"
   title="Stroop-Test: simulierte Daten und interaktive Auswertung"
   style="display: block; width: 100%; height: 1250px; border: 0;"
   loading="lazy">
 </iframe>
+*****
 
 ### Zur Entscheidung über Hypothesen
 
 {{0-1}}
 *****
-<div style="border-left: 6px solid #11b11fff; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
+<div style="border-left: 6px solid #11b11fff; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;line-height: 2">
 <span style="font-size: 1.0em;"> Bei einer Entscheidung für oder gegen eine Hypothese können zwei Arten von Fehlern auftreten: <br>
 - α-Fehler: H0 wird fälschlicherweise verworfen - H1 fälschlicherweise angenommen. <br>
 - β-Fehler: H0 wird fälschlicherweise beibehalten - H1 fälschlicherweise abgelehnt.</span>
@@ -1125,7 +1144,7 @@ Durch die Zeitmessung beim Stroop-Test liegt eine *Verhältnisskala* vor.
 >[!CAUTION] **Signifikanzniveau und p-Wert** <br>
 > - Vor der Auswertung wird ein Signifikanzniveau festgelegt, häufig α = 0,05. <br>
 > - α begrenzt das Risiko, eine tatsächlich gültige Nullhypothese fälschlicherweise zu verwerfen. <br>
-> - Aus den Daten wird der p-Wert berechnet. Je kleiner der p-Wert ist, desto ungewöhnlicher wäre unser Testergebnis,denn es tatsächlich keinen Unterschied zwischen den Gruppen gäbe. Ein kleiner p-Wert spricht deshalb gegen die Nullhypothese. <br>
+> - Aus den Daten wird der p-Wert berechnet. Er beschreibt, wie wahrscheinlich das Testergebnis ist unter der Annahme, dass eigentlich kein Unterschied zwischen den Gruppen vorliegt. Ein kleiner p-Wert spricht deshalb gegen die Nullhypothese. <br>
 > - Ist p < α, wird das Ergebnis als statistisch signifikant eingeordnet und die Nullhypothese verworfen. <br>
 > - Der p-Wert gibt nicht an, mit welcher Wahrscheinlichkeit eine Hypothese wahr oder falsch ist.</span>
 *****

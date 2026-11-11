@@ -30,12 +30,15 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 
 ## Motivierung
 
-{{0-1}}
+{{0-2}}
 **********
 >[!WARNING]Aufgabe Stroop-Test
 > **Proband:in**: Benenne alle Farben der angezeigten Wörter der Reihe nach. <br>
 > **Testleiter:in**: Stoppe die Zeit. Bei einem Fehler rufe "Fehler" und lass die Farbe korrekt wiederholen.
+**********
 
+{{1-2}}
+**********
 <iframe
   src="https://euf-spowis.github.io/BA_PSW_Einfuehrung_Sportwissenschaft/img/stroop.html"
   title="Stroop-Test"
@@ -45,7 +48,7 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 </iframe>
 **********
 
-{{1}}
+{{2}}
 **********
 <div style="border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 <span style="font-size: 1.4em;">"Wer sich viel bewegt, kann sich auch besser konzentrieren!"</span>
@@ -57,10 +60,10 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 ## Überblick
 1. Grundlagen: Ziele und Merkmale quantitativer Forschung
 2. Forschungskreislauf quantitativer Forschung
-    3. Ausgangslage: Forschungsfrage zur Hypothese
-    4. Untersuchung planen: von der Hypothese zum Design
-    5. Daten erheben: vom Design zur Datenerfassung
-    6. Statistische Analyse: von den Daten zur Analyse
+    3. **Forschungsfrage und Hypothese**: Ausgangspunkt quantitativer Forschung 
+    4. **Untersuchung planen**: von der Hypothese zum Design
+    5. **Daten erheben**: vom Design zur Datenerfassung
+    6. **Statistische Analyse**: von den Daten zur Analyse
 
 ## Grundlagen
 
@@ -92,35 +95,35 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 ******************
 >[!TIP] 📏 1. Standardisierung
 > Erhebungsbedingungen, Instrumente und Ablauf sind für alle Untersuchten einheitlich.<br>
-> <span style="color: #8c8e92ff;">z. B. "Alle Proband:innen absolvieren den gleichen Lauftest auf derselben Bahn und zur gleichen Tageszeit".</span>
+> z. B. "Alle Proband:innen absolvieren den gleichen Lauftest auf derselben Bahn und zur gleichen Tageszeit".
 ******************
 
 {{1}}
 ******************
 >[!TIP] 🔢 2. Operationalisierung
 > Theoretische Konstrukte werden in konkret messbare Variablen überführt.<br>
-> <span style="color: #8c8e92ff;">z. B. "Die Ausdauerleistung wird durch die gelaufene Strecke in zwölf Minuten erfasst, gemessen in Metern."</span>
+> z. B. "Die Ausdauerleistung wird durch die gelaufene Strecke in zwölf Minuten erfasst, gemessen in Metern."
 ******************
 
 {{2}}
 ******************
 >[!TIP] 🔍 3. Hypothesenprüfung
 > Aus der Theorie abgeleitete Annahmen werden gezielt anhand der Daten geprüft (deduktives Vorgehen).<br>
-> <span style="color: #8c8e92ff;">z. B. "Geprüft wird die Hypothese, dass es einen Zusammenhang zwischen Zugehörigkeitsgefühl und Motivation gibt."</span>
+> z. B. "Geprüft wird die Hypothese, dass es einen Zusammenhang zwischen Zugehörigkeitsgefühl und Motivation gibt."
 ******************
 
 {{3}}
 ******************
 >[!TIP] ⚖️ 4. Distanz zum Gegenstand
 > Die forschende Person vermeidet eine Beeinflussung der Messung und der Antworten.<br>
-> <span style="color: #8c8e92ff;">z. B. "Die Testleitung folgt einem festen Skript, feuert niemanden an und misst die Strecke nach einem festgelegten Verfahren."</span>
+> z. B. "Die Testleitung folgt einem festen Skript, feuert niemanden an und misst die Strecke nach einem festgelegten Verfahren."
 ******************
 
 {{4}}
 ******************
 >[!TIP] 👥 5. Generalisierung durch Repräsentativität
 > Angestrebt wird die Übertragung der Ergebnisse auf eine größere Zielgruppe. Dafür ist entscheidend, wie gut die Stichprobe diese Zielgruppe abbildet.<br>
-> <span style="color: #8c8e92ff;">z. B. "Um Aussagen für 20-30 jährige Personen treffen zu können,  wird die Stichprobe entsprechend ausgewählt."</span>
+> z. B. "Um Aussagen für 20-30 jährige Personen treffen zu können,  wird die Stichprobe entsprechend ausgewählt."
 
 <div style="text-align: right; font-size: 0.85em; opacity: 0.8;">
 📚 Zum Nachlesen: Döring & Bortz (2016)
@@ -203,6 +206,13 @@ link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 
 **Präzision und Reduktion** <br>
 Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die <br><br>
+
+</div>
+*****
+
+{{2}}
+*****
+<div style="display: flow-root; border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
 **Forschungsfrage** <br>
 
 <span style="color: #00ab1aff; font-size: 1.2em"> **Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?**"</span>
@@ -279,9 +289,9 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die <br><b
 
 **"Wer sich viel bewegt, kann sich auch besser konzentrieren!"** <br>
 
-**Hypothese (H1)** <br> Die Aufmerksamkeitskontrollle von Kindern, die regelmäßiger sportliche Aktivität nachgehen, unterscheidet sich von Kindern, die keiner regelmäßigen sportlichen Aktivität nachgehen.<br>
+**Hypothese (H1)** <br> Die Aufmerksamkeitskontrollle von Kindern *mit* regelmäßiger sportlicher Aktivität  unterscheidet sich von der Aufmerksamkeitskontrollle von Kindern *ohne* regelmäßige sportliche Aktivität.<br>
 
-**Nullhypothese (H0)** <br> Kinder, die einer regelmäßigen sportliche Aktivität nachgehen und Kinder, die die keiner regelmäßigen sportlichen Aktivität nachgehen zeigen die gleiche Aufmerksamkeitskontrollle.
+**Nullhypothese (H0)** <br> Die Aufmerksamkeitskontrollle von Kindern *mit* regelmäßiger sportlicher Aktivität  unterscheidet sich *nicht* von der Aufmerksamkeitskontrollle von Kindern *ohne* regelmäßige sportliche Aktivität.
 
 </div>
 
@@ -320,7 +330,7 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die <br><b
 >
 >|Design|Beschreibung|Beispiel|
 >| :-- | :-- |  :-- |
->|Querschnittstudie| Einmalige Messung zu einem Zeitpunkt bei mehreren Personen.| Zu Beginn des neues Schuljahres wird einmlaig das Wohlbefinden der Schüler*innen erfragt.|
+>|Querschnittstudie| Einmalige Messung zu einem Zeitpunkt bei mehreren Personen.| Zu Beginn des neues Schuljahres wird einmalig das Wohlbefinden der Schüler*innen erfragt.|
 >|Längsschnittstudie| Wiederholte Messung derselben Personen über mehrere Zeitpunkte.| Über mehrere Jahre hinweg wird das Wohlbefinden der identischen Schüler*innen erfragt.|
 ******************************
 
@@ -343,8 +353,8 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die <br><b
 >|Design|Beschreibung|Beispiel|
 >| :-- | :-- |  :-- |
 >|Experiment| Personen werden zufällig Gruppen zugeordnet, die unterschiedliche Treatments erhalten.| Personen werden per Los in die Gruppen A oder B zugeordnet, wo sie nach Programm A oder Programm B trainieren.|
->|Quasi-Experiment| Personen befinden sich in Gruppen, die unterschiedliche Treatments erhalten. Die Gruppenzuordnung ist nicht streng zufällig. | Wie beim Experiment, die Personen werden aber Klassenweise (z. B. in Schulklassen) einem Trainingsprogramm zugeordnet|
->|Koorelative Studie |Es gibt keine Intervention, es werden nur bestehende Merkmale gemessen.| Es werden Alter und Interesse, um den Zusammenhang dieser Variablen zu bestimmen.|
+>|Quasi-Experiment| Personen befinden sich in Gruppen, die unterschiedliche Treatments erhalten. Die Gruppenzuordnung ist nicht streng zufällig. | Wie beim Experiment, die Personen werden aber Klassenweise (z. B. in Schulklassen und somit nicht randomisiert) einem Trainingsprogramm zugeordnet.|
+>|Koorelative Studie |Es gibt keine Intervention, es werden nur bestehende Merkmale gemessen.| Es werden Alter und Interesse gemessen, um den Zusammenhang dieser Variablen zu bestimmen.|
 ******************************
 
 {{3-4}}
@@ -358,7 +368,7 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die <br><b
 ******************************
 > [!IMPORTANT] 🎯 **Was?**
 > Was genau wird untersucht und ggf. manipuliert? <br> 
-> z. B. "Vor und nach einer Intervention wird das **Belastungsempfinden** gemessen. Währen der Intervention hören die Teilnehmer:innen unterschiedliche Musik. 
+> z. B. "Vor und nach einer Intervention wird das **Belastungsempfinden** gemessen. Während der Intervention hören die Teilnehmer:innen unterschiedliche Musik. 
 
 <div style="text-align: right; font-size: 0.85em; opacity: 0.8;">
 📚 Zum Nachlesen: Döring & Bortz (2016)
@@ -375,7 +385,9 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die <br><b
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
 
-**"Wer sich viel bewegt, kann sich auch besser konzentrieren!"** <br>
+**Forschungsfrage**
+
+<span style="color: #00ab1aff; font-size: 1em"> **Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?**"</span>
 
 **Design und Stichprobe** 
 
@@ -391,13 +403,13 @@ Aus "Wer sich viel bewegt, kann sich auch besser konzentrieren!" wird die <br><b
 
 {{0-2}}
 *****
-<div style="border-left: 6px solid #11b11fff; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
+<div style="border-left: 6px solid #11b11fff; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;line-height: 2;">
 <span style="font-size: 1.0em;">
 
-Ein Experiment ist ein planmäßig ausgelöster und wiederholbarer Vorgang, bei dem beobachtet wird, in welcher Weise sich unter Konstanthaltung anderer Bedingungen mindestens eine abhängige Variable ändert, nachdem mindestens eine unabhängige Variable geändert worden ist. Wesentliche Merkmale des Experiments sind demnach: <br>
-1. Planmäßigkeit <br>
-2. Wiederholbarkeit und <br>
-3. systematische Variation bzw. Konstanthaltung von Bedingungen.
+Ein Experiment ist ein planmäßig ausgelöster und wiederholbarer Vorgang, bei dem beobachtet wird, in welcher Weise sich **unter Konstanthaltung anderer Bedingungen** mindestens eine **abhängige Variable** ändert, nachdem mindestens eine **unabhängige Variable** geändert worden ist. Wesentliche Merkmale des Experiments sind demnach: <br>
+1. **Planmäßigkeit** <br>
+2. **Wiederholbarkeit** und <br>
+3. **systematische Variation bzw. Konstanthaltung von Bedingungen**.
 <br>
 Im Experiment lassen sich immer ein Zustand vorher, eine Änderungsphase (Treatment) und ein Zustand nachher unterscheiden. </span>
 </div>
@@ -455,7 +467,9 @@ s. dazu auch Shadish et al., 2002 </div>
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
 
-**"Wer sich viel bewegt, kann sich auch besser konzentrieren!"** <br>
+**Forschungsfrage**
+
+<span style="color: #00ab1aff; font-size: 1em"> **Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?**"</span>
 
 - AV: Aufmerksamkeitskontrolle <br>
 - UV: Regelmäßige sportliche Aktivität <br>
@@ -485,7 +499,9 @@ s. dazu auch Shadish et al., 2002 </div>
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
 
-**"Wer sich viel bewegt, kann sich auch besser konzentrieren!"** <br>
+**Forschungsfrage**
+
+<span style="color: #00ab1aff; font-size: 1em"> **Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?**"</span>
 
 - AV: Aufmerksamkeitskontrolle wird durch den **Stroop Test** gemessen<br>
 - UV: Regelmäßige sportliche Aktivität wird variiert mit 
@@ -1028,7 +1044,10 @@ In welchen Situationen wird gegen die Kinball-Regeln verstoßen? Mehrere Antwort
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
 
-**"Wer sich viel bewegt, kann sich auch besser konzentrieren!"** <br>
+**Forschungsfrage**
+
+<span style="color: #00ab1aff; font-size: 1em"> **Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?**"</span>
+
 Durch die Zeitmessung beim Stroop-Test liegt eine *Verhältnisskala* vor.
 </div>
 *****
@@ -1054,7 +1073,9 @@ Durch die Zeitmessung beim Stroop-Test liegt eine *Verhältnisskala* vor.
 ### Beispiel: Bewegung und Aufmerksamkeitskontrolle
 
 <div style="border-left: 6px solid #4e66bd; background: #f2f6fb; border-radius: 0 12px 12px 0; padding: 1rem 1.4rem; margin: 1rem 0;">
-<span style="font-size: 1.4em;">"Wer sich viel bewegt, kann sich auch besser konzentrieren!"</span>
+**Forschungsfrage**
+
+<span style="color: #00ab1aff; font-size: 1.5em"> **Kann regelmäßige sportliche Aktivität die Aufmerksamkeitskontrolle von Kindern steigern?**"</span>
 </div>
 
 <iframe
@@ -1085,9 +1106,9 @@ Durch die Zeitmessung beim Stroop-Test liegt eine *Verhältnisskala* vor.
   title="Bild erstellt mit KI"
   style="float: right; width: 45%; max-width: 800px; height: auto; margin: 0 0 1rem 1.5rem;">
 
-**Hypothese (H1)** <br> Die Aufmerksamkeitskontrollle von Kindern, die regelmäßiger sportliche Aktivität nachgehen, unterscheidet sich von Kindern, die keiner regelmäßigen sportlichen Aktivität nachgehen.<br>
+**Hypothese (H1)** <br> Die Aufmerksamkeitskontrollle von Kindern *mit* regelmäßiger sportlicher Aktivität  unterscheidet sich von der Aufmerksamkeitskontrollle von Kindern *ohne* regelmäßige sportliche Aktivität.<br>
 
-**Nullhypothese (H0)** <br> Kinder, die einer regelmäßigen sportliche Aktivität nachgehen und Kinder, die die keiner regelmäßigen sportlichen Aktivität nachgehen zeigen die gleiche Aufmerksamkeitskontrollle.
+**Nullhypothese (H0)** <br> Die Aufmerksamkeitskontrollle von Kindern *mit* regelmäßiger sportlicher Aktivität  unterscheidet sich *nicht* von der Aufmerksamkeitskontrollle von Kindern *ohne* regelmäßige sportliche Aktivität.
 
 **Ein α-Fehler liegt vor...** <br>
 ... wenn die Wirksamkeit einer täglichen Sportstunde angenommen wird, obwohl sie es nicht ist. 

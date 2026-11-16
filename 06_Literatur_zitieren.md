@@ -5,10 +5,8 @@ version: 1.0.0
 language: de
 narrator: Deutsch Female
 
-import:  https://raw.githubusercontent.com/EUF-SpoWis/Wissenschaftliches-Arbeiten/refs/heads/main/config.md
-import: https://raw.githubusercontent.com/LiaTemplates/Wikimedia/main/README.md
-
 import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/refs/heads/main/config.md
+import: https://raw.githubusercontent.com/LiaTemplates/Wikimedia/main/README.md
 
 @onload
 window.citationStyle = "apa"

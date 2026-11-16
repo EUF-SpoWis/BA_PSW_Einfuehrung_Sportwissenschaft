@@ -23,7 +23,8 @@ Dieser Kurs vermittelt einführende Grundlagen zur Sportwissenschaft und zum spo
 | [03 Sprtwissenschaft exemplarisch](03_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)     | Sportwissenschaftliche Phänomene aus der Perspektive exemplarischer Teildisziplinen    |
 | [04 Grundlagen qualitatives Forschen](04_Qualitatives_Forschen.md)                                | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
 | [05 Grundlagen quantitatives Forschen](05_Quantitatives_Forschen.md)                              | Grundlagen sportwissenschaftlichen Arbeits, quantitatives Forschen                     |
-| [06 Abschluss und Klausurvorbereitung](06_Abschluss.md)                                           | Rückblick auf das Semester, Hinweise zur Klausur                                       |
+| [06 Literatur zitieren](06_Literatur_zitieren.md)                                                 | Hinweise zum Umgang mit und Zitieren von Literatur                                     |
+| [07 Abschluss und Klausurvorbereitung](07_Abschluss.md)                                           | Rückblick auf das Semester, Hinweise zur Klausur                                       |
 
 
 
@@ -46,7 +47,7 @@ git clone https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft
 ├── 00_Einfuehrung.md                   # Kurseinführung
 ├── 01_Grundlagen.md                    # Orientierungen und zentrale Grundlagen der Sportwissenschaft
 ├── ...                                 # Weitere Vorlesungen
-├── 06_Abschluss.md                     # Abschluss und Klausurvorbereitung
+├── 07_Abschluss.md                     # Abschluss und Klausurvorbereitung
 ├── images/                             # Grafiken und Diagramme
 ├── material/                           # Zusätzliche Materialien
 ├── config.md                           # Kurs-Konfiguration

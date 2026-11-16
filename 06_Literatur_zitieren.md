@@ -19,14 +19,14 @@ window.bibliographyLoad("https://raw.githubusercontent.com/Just-Jannis/Barrieref
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/06_Literatur_zitieren.md#1)
 
-| Parameter                | Kursinformationen                                                                               |
-| ------------------------ | ----------------------------------------------------------------------------------------------- |
-| **Veranstaltung:**       | @config.lecture                                                                                 |
-| **Semester:**            | @config.semester                                                                                |
-| **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
-| **Inhalte:**             | `Hinweise zum Umgang mit und Zitieren von Literatur`                                                |
-| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/blob/main/06_Literatur_zitieren.md      |
-| **Autoren:**             | @author                                                                                         |
+| Parameter                | Kursinformationen                                                                                       |
+| ------------------------ | ------------------------------------------------------------------------------------------------------- |
+| **Veranstaltung:**       | @config.lecture                                                                                         |
+| **Semester:**            | @config.semester                                                                                        |
+| **Hochschule:**          | `Europa-Universität Flensburg`                                                                          |
+| **Inhalte:**             | `Hinweise zum Umgang mit und Zitieren von Literatur`                                                    |
+| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/blob/main/06_Literatur_zitieren.md   |
+| **Autoren:**             | @author                                                                                                 |
 
 > (c) Alle Rechte vorbehalten. 
 

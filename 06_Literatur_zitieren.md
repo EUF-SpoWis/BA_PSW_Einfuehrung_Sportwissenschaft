@@ -24,7 +24,7 @@ window.bibliographyLoad("https://raw.githubusercontent.com/Just-Jannis/Barrieref
 | **Veranstaltung:**       | @config.lecture                                                                                 |
 | **Semester:**            | @config.semester                                                                                |
 | **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
-| **Inhalte:**             | `Hinweise zum Umgang mit und Zitieren von Literatur`                                                |@
+| **Inhalte:**             | `Hinweise zum Umgang mit und Zitieren von Literatur`                                                |
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/blob/main/06_Literatur_zitieren.md      |
 | **Autoren:**             | @author                                                                                         |
 

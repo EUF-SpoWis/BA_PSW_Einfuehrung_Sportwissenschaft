@@ -1,7 +1,7 @@
 <!--
 author: Tim Heemsoth
 email: tim.heemsoth@uni-flensburg.de
-version: 0.0.1
+version: 1.0.0
 language: de
 narrator: Deutsch Female
 
@@ -24,4 +24,9 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 
 > (c) Alle Rechte vorbehalten. 
 
-> [!CAUTION] **Die Seite befindet sich im Aufbau und wird zu gegebener Zeit freigegeben.**
+## Überblick
+
+1. [Umgang mit Literatur](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/06_Literatur_zitieren.md#1)
+2. [Rückblick](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/01_Einfuehrung.md#11) und [Nachträgliches](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/03_Sportwissenschaft_exemplarisch.md#25)
+3. [Integrative Anwendungsaufgabe](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/07a_Anwendungsaufgabe.md#1)
+4. Evaluation der Lehrveransaltung

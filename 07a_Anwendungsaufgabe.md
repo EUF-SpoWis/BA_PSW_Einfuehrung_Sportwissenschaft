@@ -11,12 +11,23 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 
 # Integrative Anwendungsaufgabe
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/01_Einfuehrung.md#1)
+
+| Parameter                | Kursinformationen                                                                               |
+| ------------------------ | ----------------------------------------------------------------------------------------------- |
+| **Veranstaltung:**       | @config.lecture                                                                                 |
+| **Semester:**            | @config.semester                                                                                |
+| **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
+| **Inhalte:**             | `Integrative Abschlussaufgabe über diverse Inahlte der Vorlesung`.                              |
+| **Link auf GitHub:**     | https://github.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/blob/main7a_Einfuehrung.md  |
+| **Autoren:**             | @author                                                                                         |
+
+## Studieninformationen
+
 >[!CAUTION]Hinweis
 >Die folgende integrative Anwendungsaufgabe fordert deine Kompetenzen über die Breite der gehörten Vorlesung. 
 >
 >Die dargestellte Untersuchung und die Daten sind fiktiv und diesen der didaktischen Nachbereitung der Vorlesungsinhalte.
-
-## Studieninformationen
 
 ### Studienkontext
 >[!NOTE] Hintergrund

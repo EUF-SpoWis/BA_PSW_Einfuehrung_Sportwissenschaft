@@ -525,11 +525,33 @@ Beim Zitieren orientiert sich das Fach Sport an den Rahmenrichtlinien der Americ
 - Bei einer gewöhnlichen datierten Webseite wird kein Abrufdatum ergänzt.
 </details>
 
+## Literatur mit Software verwalten
+>[!Tip] Literatur in Zotero verwalten
+> 1. Installiere Zotero und registriere einen Account. Installiere den Zotero Connector (ein Plug-In für den Browser) und das Plug-in für Word.
+> 2. Speicher einen Buchbeitrag, z. B.  "Fahrner, 2025" in Zotero ab und editiere die Informationen so, dass folgende Informationen enthalten sind: Fahrner, M. (2025) Sportwissenschaft als Fachdisziplin. In V. Burk & M. Fahrner (Hrsg.), *Sportwissenschaft*, S. 19-56. utb https://doi.org/10.36198/9783838564517 (s. Abbildung 1)
+> 3. Lege eine neue Sammlung an und ordne relevante Quellen dieser Sammlung zu. 
+> 4. Speicher im Verlauf des Studiums jede relevante Quelle sofort in Zotero – nicht erst bei Beginn einer Hausarbeit. Ergänzen Sie aussagekräftige Schlagwörter und kurze Notizen dazu, wofür eine Quelle später nützlich sein könnte.
+
+![Zotero-Quelle speichern](img/Zotero1_Quelle_speichern.png "Abbildung 1: Eine Quelle bei Zotero abspeichern")
+
+### Mini-Übung 
+>[!TIP] Durchlaufe die folgenden Schritte
+> 1. Schreibe einen Satz in ein Worddokument und füge das Jahr der Quelle über den Zotero-Plug-in ein. Dabei wähle den Zitationsstyle "APA Style 7th edition" (klicke auf  Abbildungen 2, 3 und 4). Der Satz soll lauten: 
+> "Die Grundlagen der Sportwissenschaft werden bei Burk und Fahrner (2025) übersichtlich zusammengefasst.".
+> 2. Ergänze über das Zotero-Plug in die Literatur(-liste), die in diesem Fall aus genau einer Quelle besteht (klicke auf Abbildung 5).
+
+![Zotero-Quelle zitieren](img/Zotero2_zitieren.png "Abbildung 2: Eine Quelle aus Zotero zitieren")
+
+![Zotero-Style wählen](img/Zotero3_APA_waehlen.png "Abbildung 3: Einen Zitationsstyle in Zotero wählen")
+
+![Zotero-Zitation formatieren](img/Zotera4_Format_anpassen.png "Abbildung 4: Die Formatierung im Text auswählen")
+
+![Zotero-Bibliographie integrieren](img/Zotero5_Bibliographie_integrieren.png "Abbildung 5: Eine Bibliographie hinzufügen")
+
 ## Übung
 
 > [!NOTE] Hinweis
 > In den folgenden 24 Aufgaben wendest du die Regeln zum Zitieren an. Alle Zitate stammen aus realen sportswissenschaftlichen bzw. benachbarten Publikationen.
-
 
 ### 1: Muss hier eine Quelle stehen?
 

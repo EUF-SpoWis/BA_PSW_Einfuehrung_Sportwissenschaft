@@ -530,7 +530,7 @@ Beim Zitieren orientiert sich das Fach Sport an den Rahmenrichtlinien der Americ
 > 1. Installiere Zotero und registriere einen Account. Installiere den Zotero Connector (ein Plug-In für den Browser) und das Plug-in für Word.
 > 2. Speicher einen Buchbeitrag, z. B.  "Fahrner, 2025" in Zotero ab und editiere die Informationen so, dass folgende Informationen enthalten sind: Fahrner, M. (2025) Sportwissenschaft als Fachdisziplin. In V. Burk & M. Fahrner (Hrsg.), *Sportwissenschaft*, S. 19-56. utb https://doi.org/10.36198/9783838564517 (s. Abbildung 1)
 > 3. Lege eine neue Sammlung an und ordne relevante Quellen dieser Sammlung zu. 
-> 4. Speicher im Verlauf des Studiums jede relevante Quelle sofort in Zotero – nicht erst bei Beginn einer Hausarbeit. Ergänzen Sie aussagekräftige Schlagwörter und kurze Notizen dazu, wofür eine Quelle später nützlich sein könnte.
+> 4. Speicher im Verlauf des Studiums jede relevante Quelle sofort in Zotero – nicht erst bei Beginn einer Hausarbeit. Ergänze  aussagekräftige Schlagwörter und kurze Notizen dazu, wofür eine Quelle später nützlich sein könnte.
 
 ![Zotero-Quelle speichern](img/Zotero1_Quelle_speichern.png "Abbildung 1: Eine Quelle bei Zotero abspeichern")
 

@@ -2515,8 +2515,6 @@ Zusätzlich diskutieren die Autor:innen propriozeptives Training, beispielsweise
 ********
 >[!Warning] „Sport hilft gegen Depressionen.“ <br>
 > Was müsste wissenschaftlich untersucht werden, damit aus dieser Alltagsaussage eine belastbare Therapieempfehlung wird?
-
-Sammelt zu zweit zwei Fragen, die vor einer Empfehlung geklärt sein sollten.
 ********
 
 {{1-2}}

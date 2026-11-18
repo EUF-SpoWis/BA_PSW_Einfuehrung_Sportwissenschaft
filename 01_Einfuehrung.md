@@ -196,8 +196,8 @@ Nach dem FrSe wird das Modul PSW mit einer schriftlichen Klausur über beide Vor
 | [01 Einführung](01_Einfuehrung.md)                                                                | Die große Vision                                                                       |
 | [02 Grundlagen](02_Grundlagen.md)                                                                 | Sport, Wissenschaft, Sportwissenschaft                                                 |
 | [03 Sprtwissenschaft exemplarisch](03_Exemplarisch_Naturwissenschaftliche_Teildisziplinen.md)     | Sportwissenschaftliche Phänomene aus der Perspektive exemplarischer Teildisziplinen    |
-| [04 Grundlagen qualitatives Forschen](04_Qualitatives_Forschen.md)                                | Grundlagen sportwissenschaftlichen Arbeits, qualiatives Forschen                       |
-| [05 Grundlagen quantitatives Forschen](05_Quantitatives_Forschen.md)                              | Grundlagen sportwissenschaftlichen Arbeits, quantitatives Forschen                     |
+| [04 Grundlagen qualitatives Forschen](04_Qualitatives_Forschen.md)                                | Grundlagen sportwissenschaftlichen Arbeitens, qualiatives Forschen                       |
+| [05 Grundlagen quantitatives Forschen](05_Quantitatives_Forschen.md)                              | Grundlagen sportwissenschaftlichen Arbeitens, quantitatives Forschen                     |
 | [06 Literatur zitieren](06_Literatur_zitieren.md)                                                 | Hinweise zum Umgang mit und Zitieren von Literatur                                     |
 | [07 Abschluss und Klausurvorbereitung](07_Abschluss.md)                                           | Rückblick auf das Semester, Hinweise zur Klausur                                       |
 

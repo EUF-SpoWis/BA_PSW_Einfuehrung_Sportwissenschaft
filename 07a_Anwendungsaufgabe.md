@@ -118,13 +118,27 @@ Die Absatznummern dienen als Fundstellen für die spätere Auswertung.
 >[!TIP] 1. Welcher sportwissenschaftlichen Teildisziplin lässt sich die Studie zuordnen? 
 
 <details>
-<summary><strong>Lösung und Begründung</strong></summary>
+<summary><strong>Lösung</strong></summary>
 
 Die Studie lässt sich sowohl den Teildisziplinen *Sportpädagogik* als auch *Sportpsychologie* zuordnen. 
 
 </details>
 
->[!TIP] 2. Welches Untersuchungsdesign liegt vor? 
+
+>[!TIP] 2. In welchen Modulen werden diese sportwissenschafltichen Teildisziplinen explizit im Titel zugehöriger Veranstaltungen erwähnt, wie viele Leistungspunkte werden in den Modulen erworben und in welchem Semester liegen sie? 
+
+<details>
+<summary><strong>Lösung</strong></summary>
+
+Im PSW-Modul ist die Vorlesung "Grundlagen der **Sportpädagogig** und Sportdidaktik" verortet. Das Modul umfasst 5 LPs und ist im 1 und 2 . 
+
+Das SKJ-Modul umfasst das Seminar "**Sportpädagogik** des Kindes und Jugendalters". Das Modul umfasst 5 LPs und ist im 6. Semester.
+
+Im VSW-Modul ist die Vorlesung "**Sportpsychologie**" verotet. Das Modul umfasst 5 LPs und ist im 5. Semester. 
+
+</details>
+
+>[!TIP] 3. Welches Untersuchungsdesign liegt vor? 
 
 <details>
 <summary><strong>Lösung und Begründung</strong></summary>
@@ -137,7 +151,7 @@ Somit liegt insgesamt ein Mixed-Methods-Design vor.
 
 </details>
 
->[!TIP] 3. Wie lautet eine plausible Hypothese der Untersuchung?
+>[!TIP] 4. Wie lautet eine plausible Hypothese der Untersuchung?
 
 <details>
 <summary><strong>Mögliche Lösung</strong></summary>
@@ -148,7 +162,7 @@ Somit liegt insgesamt ein Mixed-Methods-Design vor.
 
 </details>
 
->[!TIP] 4. Benenne die unabhängige Variable, ihre Stufen und die abhängige Variable.
+>[!TIP] 5. Benenne die unabhängige Variable, ihre Stufen und die abhängige Variable.
 
 <details>
 <summary><strong>Lösung und Begründung</strong></summary>
@@ -163,7 +177,7 @@ Die abhängige Variable ist die Veränderung des soziale Zusammengehörigkeitsge
 
 </details>
 
- >[!TIP] 5. Berechne Johanns Mittelwert vor und nach der Unterrichtseinheit bei einer Kodierung von 0 bis 3.
+ >[!TIP] 6. Berechne Johanns Mittelwert vor und nach der Unterrichtseinheit bei einer Kodierung von 0 bis 3.
 
 <details>
 <summary><strong>Lösung und Rechenweg</strong></summary>
@@ -196,7 +210,7 @@ Johanns berichtetes soziales Zusammengehörigkeitsgefühl ist um 0,75 Skalenpunk
 
 </details>
 
->[!TIP] 6. Insgesamt konnten die in Tabelle 3 aufgeführten deskriptiven Daten ermittelt werden. Berechne anhnd der deskriptiven Daten händisch den standardisierten Mittelwertunterschied t. Überprüfe deine Rechnung, indem du sie in den t-Rechner eingibst. Erkläre, inwieweit sich die Gruppen statistisch bedeutsam unterscheiden.
+>[!TIP] 7. Insgesamt konnten die in Tabelle 3 aufgeführten deskriptiven Daten ermittelt werden. Berechne anhnd der deskriptiven Daten händisch den standardisierten Mittelwertunterschied t. Überprüfe deine Rechnung, indem du sie in den t-Rechner eingibst. Erkläre, inwieweit sich die Gruppen statistisch bedeutsam unterscheiden.
 > [Link zum t-Rechner](https://liascript.github.io/course/?https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwissenschaft/main/05_Quantitatives_Forschen.md#32)
 
 <details>
@@ -303,7 +317,7 @@ Die Nullhypothese gleicher mittlerer Veränderungen wird nicht verworfen.
 </details>
 
 
->[!TIP] 7. Angenommen, die folgenden Daten verändern sich. Inwieweit verändert sich dann der t-Wert?  Formuliere deine Vermutung und prüfe mit dem t-Rechner: <br>
+>[!TIP] 8. Angenommen, die folgenden Daten verändern sich. Inwieweit verändert sich dann der t-Wert?  Formuliere deine Vermutung und prüfe mit dem t-Rechner: <br>
 >  - Bei ansonsten gleichen Daten ist die Standardabweichung der Veränderung in beiden Gruppen 0,8. <br>
 > -	Bei ansonsten gleichen Daten ist die Gruppengröße in beiden Gruppen 150. 
 
@@ -327,7 +341,7 @@ Mehr Teilnehmende führen also nicht automatisch zu einem statistisch signifikan
 
 </details>
 
->[!TIP] 8. Die Studienleiter:innen nehmen an, dass die Unterrichtseinheit insbesondere deshalb erfolgreich ist, weil die Schüler:innen Aufgaben kooperativ bewältigen und ihre Erfahrungen gemeinsam nachbesprechen. Davon ausgehend nutzen sie die deduktiven Kategorien D1: „Kooperative Aufgaben“ und D2: „Sich verständigen“ für die Interviewauswertung. 
+>[!TIP] 9. Die Studienleiter:innen nehmen an, dass die Unterrichtseinheit insbesondere deshalb erfolgreich ist, weil die Schüler:innen Aufgaben kooperativ bewältigen und ihre Erfahrungen gemeinsam nachbesprechen. Davon ausgehend nutzen sie die deduktiven Kategorien D1: „Kooperative Aufgaben“ und D2: „Sich verständigen“ für die Interviewauswertung. 
 > - Inwieweit findest du diese beiden Kategorien im Interviewauszug mit Amy wieder? 
 > - Belege deine Zuordnungen mit passenden Textstellen. 
 > - Welche zusätzliche Kategorie lässt sich induktiv aus dem Ausschnitt ableiten?

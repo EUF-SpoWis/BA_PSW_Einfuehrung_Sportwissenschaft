@@ -41,7 +41,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/BA_PSW_Einfuehrung_Sportwi
 >
 >Nach Abschluss der Unterrichtseinheit werden Schüler:innen aus der "Wir sind ein Team“-Gruppe zusätzlich leitfadengestützt interviewt. Die Interviews sollen Hinweise darauf geben, welche Bedingungen aus ihrer Sicht zum Gelingen oder zu Schwierigkeiten der Unterrichtseinheit beigetragen haben.
 
-### Exempalrische Antworten 
+### Exemplarische Antworten 
 Die folgenden Tabellen zeigen Johanns Antworten vor und nach der Unterrichtseinheit.
 
 **Tabelle 1** <br>

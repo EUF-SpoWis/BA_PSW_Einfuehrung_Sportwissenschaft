@@ -125,7 +125,7 @@ Die Studie lässt sich sowohl den Teildisziplinen *Sportpädagogik* als auch *Sp
 </details>
 
 
->[!TIP] 2. In welchen Modulen werden diese sportwissenschafltichen Teildisziplinen explizit im Titel zugehöriger Veranstaltungen erwähnt, wie viele Leistungspunkte werden in den Modulen erworben und in welchem Semester liegen sie? 
+>[!TIP] 2. In welchen Modulen werden diese sportwissenschaftlichen Teildisziplinen explizit im Titel zugehöriger Veranstaltungen erwähnt, wie viele Leistungspunkte werden in den Modulen erworben und in welchem Semester liegen sie? 
 
 <details>
 <summary><strong>Lösung</strong></summary>
